@@ -1,0 +1,114 @@
+/* Add here all your CSS customizations */
+
+section.page-header.color-primary {
+	border-top: 5px solid #0c5372;
+	border-bottom: 5px solid #0c5372;
+	background-color: #0f6489;
+}
+
+section.page-header.color-primary h1 {
+	border-bottom-color: #0c5372;
+}
+
+section.page-header.color-secondary {
+	border-top: 5px solid #5f5383;
+	border-bottom: 5px solid #5f5383;
+	background-color: #6a5d93;
+}
+
+section.page-header.color-secondary h1 {
+	border-bottom-color: #5f5383;
+}
+
+section.page-header.color-tertiary {
+	border-top: 5px solid #9e769e;
+	border-bottom: 5px solid #9e769e;
+	background-color: #a985a9;
+}
+
+section.page-header.color-tertiary h1 {
+	border-bottom-color: #9e769e;
+}
+
+section.page-header.color-quaternary {
+	border-top: 5px solid #66b5ac;
+	border-bottom: 5px solid #66b5ac;
+	background-color: #77bdb5;
+}
+
+section.page-header.color-quaternary h1 {
+	border-bottom-color: #66b5ac;
+}
+
+#header .header-body {
+	border-top: 5px solid #FFF;
+}
+
+#footer.short {
+	padding-top: 0px;
+}
+
+html #footer.color-primary {
+	background: #0f6489;
+	border-top-color: #0c5372;
+}
+
+html #footer.color-primary .footer-copyright {
+	background: #0f6489;
+}
+
+html #footer.color-secondary {
+	background: #6a5d93;
+	border-top-color: #5f5383;
+}
+
+html #footer.color-secondary .footer-copyright {
+	background: #6a5d93;
+}
+
+html #footer.color-tertiary {
+	background: #a985a9;
+	border-top-color: #9e769e;
+}
+
+html #footer.color-tertiary .footer-copyright {
+	background: #a985a9;
+}
+
+html #footer.color-quaternary {
+	background: #77bdb5;
+	border-top-color: #66b5ac;
+}
+
+html #footer.color-quaternary .footer-copyright {
+	background: #77bdb5;
+}
+
+@media (min-width: 992px) {
+	html #header .header-nav-main nav > ul > li.nodropdown-full-color.nodropdown-quaternary a {
+		color: #77bdb5;
+	}
+
+	html #header .header-nav-main nav > ul > li.nodropdown-full-color.nodropdown-quaternary.active > a,
+	html #header .header-nav-main nav > ul > li.nodropdown-full-color.nodropdown-quaternary a:focus,
+    html #header .header-nav-main nav > ul > li.nodropdown-full-color.nodropdown-quaternary a:hover {
+		background: #77bdb5;
+		color: #FFF;
+	}
+
+	html #header .header-nav-main nav > ul > li.nodropdown-full-color.nodropdown-quaternary a:after {
+		border-color: #77bdb5 transparent transparent transparent;
+	}
+}
+
+@media (max-width: 991px) {
+	html #header .header-nav-main nav > ul > li.nodropdown-full-color.nodropdown-quaternary > a {
+		color: #77bdb5;
+	}
+
+	html #header .header-nav-main nav > ul > li.nodropdown-full-color.nodropdown-quaternary.active > a {
+		background: #77bdb5;
+		color: #FFF;
+	}
+}
+

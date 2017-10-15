@@ -1,3 +1,22 @@
+<?php
+global $gPrimaryColor;
+global $gPrimaryDarkColor;
+global $gSecondaryColor;
+global $gSecondaryDarkColor;
+global $gTertiaryColor;
+global $gTertiaryDarkColor;
+global $gQuaternaryColor;
+global $gQuaternaryDarkColor;
+$gPrimaryColor = "#0f6489";
+$gPrimaryDarkColor = "#0c5372";
+$gSecondaryColor = "#6a5d93";
+$gSecondaryDarkColor = "#5f5383";
+$gTertiaryColor = "#a985a9";
+$gTertiaryDarkColor = "#9e769e";
+$gQuaternaryColor = "#77bdb5";
+$gQuaternaryDarkColor = "#66b5ac";
+?>
+
 <!DOCTYPE html>
 <html>
 	<head>
@@ -45,6 +64,17 @@
 
 		<!-- Theme Custom CSS -->
 		<link rel="stylesheet" href="css/custom.css">
+
+		<!-- Dynamically generated CSS -->
+		<style type="text/css">
+			.owl-carousel .owl-dots .owl-dot.active span,
+			.owl-carousel .owl-dots .owl-dot:hover span {
+				<?php
+					$colorString = "g" . ucfirst($gPageColor) . "Color";
+					echo "background-color: " . $$colorString . ";\n";
+				?>
+			}
+		</style>
 
 		<!-- Head Libs -->
 		<script src="vendor/modernizr/modernizr.min.js"></script>

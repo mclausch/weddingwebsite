@@ -57,10 +57,6 @@ body {
 	margin-top: -20px;
 }
 
-.inline-bullets > li > ul > li {
-	list-style: none;
-}
-
 #footer.short {
 	padding-top: 0px;
 	height: 63px;
@@ -109,7 +105,6 @@ html #footer.color-quaternary .footer-copyright {
 	html #header .header-nav-main nav > ul > li.nodropdown-full-color.nodropdown-quaternary a {
 		color: #77bdb5;
 	}
-
 	html #header .header-nav-main nav > ul > li.nodropdown-full-color.nodropdown-quaternary.active > a,
 	html #header .header-nav-main nav > ul > li.nodropdown-full-color.nodropdown-quaternary a:focus,
     html #header .header-nav-main nav > ul > li.nodropdown-full-color.nodropdown-quaternary a:hover {

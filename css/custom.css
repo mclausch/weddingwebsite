@@ -44,8 +44,29 @@ section.page-header.color-quaternary h1 {
 	border-top: 5px solid #FFF;
 }
 
+html {
+	position: relative;
+	min-height: 100%;
+}
+
+body {
+	margin-bottom: 63px;
+}
+
+.inline-bullets {
+	margin-top: -20px;
+}
+
+.inline-bullets > li > ul > li {
+	list-style: none;
+}
+
 #footer.short {
 	padding-top: 0px;
+	height: 63px;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
 }
 
 html #footer.color-primary {

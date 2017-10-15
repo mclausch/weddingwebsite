@@ -38,7 +38,7 @@ include("head.html")
 						</div>
 						<div id="collapseToSFAirOne" class="accordion-body collapse" aria-expanded="false" style="">
 						<div class="panel-body">
-							<p>Follow airport signage to the taxi stands. One-way metered rates to San Francisco city center from SFO/OAK are approximately $60. Some taxi companies provide cheaper flat rates, be sure to ask your driver. Taxis are required to accept major credit cards, but sometimes drivers will insist they only take cash. Tell them up front if you're paying with card.</p>
+							<p>Follow airport signage to the taxi stands. One-way metered rates to San Francisco city center from SFO/OAK are approximately $60. Some taxi companies provide cheaper flat rates, so be sure to ask your driver. Taxis are required to accept major credit cards, but it's important to tell your driver up front that you're paying by card as some drivers will insist they only take cash.</p>
 						</div>
 						</div>
 						</div>
@@ -72,7 +72,8 @@ include("head.html")
 						<div id="collapseToSFAirFour" class="accordion-body collapse" aria-expanded="false" style="">
 						<div class="panel-body">
 							<p>Ridesharing was born in the San Francisco Bay Area and is used heavily all over the region. If you will have data on your smartphone when you arrive at the airport this can be a cheaper (and often easier) option than a regular taxi.</p>
-							<p>Our preferred rideshare program is <a href="http://lyft.com">Lyft</a>. If you haven't used Lyft before you can sign up with our referral code, "SARAHMATTHEWWED" to get a $5 credit to your first ride. Rides from SFO range from $18 to $40. Rides are a bit more expensive due to the bridge toll. Ridesharing is also an excellent an inexpensive option for getting around the city.</p>
+							<p>Our preferred rideshare program is <a href="http://lyft.com">Lyft</a>. If you haven't used Lyft before you can sign up with our referral code, "SARAHMATTHEWWED" to get a $5 credit to your first ride. Rides from SFO range from $18 to $40. Rides from OAK are a bit more expensive due to the bridge toll. Ridesharing is also an inexpensive option for getting around the city.</p>
+							<p>A few tips For those that haven’t used a ridesharing service before. If you want a car all to yourself or are traveling with more than 2 people, request a regular Lyft. If your party is 1-2 people, you don’t mind sharing your ride, and you aren’t in a hurry, we recommend requesting a Lyft Line which pairs your party up with other riders and is often cheaper than a regular Lyft. Uber has a similar system with UberX (car just for you and your party) and Uber Pool (shared ride).</p>
 						</div>
 						</div>
 						</div>
@@ -84,9 +85,9 @@ include("head.html")
 						<div id="collapseToSFAirFive" class="accordion-body collapse" aria-expanded="false" style="">
 						<div class="panel-body">
 							<p>Both SFO and OAK are connected to San Francisco City Center via the <a href="https://www.bart.gov/guide/airport">Bay Area Rapid Transit system (BART)</a>. Fares are approximate $10 one way.</p>
-							<p> Within the city <a href="https://www.sfmta.com/">MUNI</a> runs city buses and light rail which provide surprisingly thorough coverage. Adult fares are $2.75 and allow unlimited transfers for 90 minutes.</p>
-							<p><a href="https://www.clippercard.com">Clipper Cards</a> are refillable transit payment cards that can be used on any transit system in the San Francisco Bay Area (including BART and MUNI). They can be purchased/reloaded at any major transit station or at any Walgreens Pharmacy.</p>
-							<p>Google Maps and Apple Maps are both very good at providing directions and routing for public transit within San Francisco. <a href="http://rocketmanapp.com/">RocketMan</a> is an excellent app for tracking bus arrival times in many major cities (including San Francisco and Toronto). Major stations also have paper maps to help you get around and many bus stops have full system maps posted in the shelters. Any San Fransisco guide book should also have information about public transit.</p>
+							<p> Within the city <a href="https://www.sfmta.com/">MUNI</a> runs city buses and light rail that provide surprisingly thorough coverage. Adult fares are $2.75 and allow unlimited transfers for 90 minutes.</p>
+							<p><a href="https://www.clippercard.com">Clipper Cards</a> are refillable transit payment cards that can be used on any transit system in the San Francisco Bay Area (including BART and MUNI). They can be purchased/reloaded at any major transit station or at any Walgreens pharmacy.</p>
+							<p>Google Maps and Apple Maps are both very good at providing directions and routing for public transit within San Francisco. <a href="http://rocketmanapp.com/">RocketMan</a> is an excellent app for tracking bus arrival times in many major cities (including San Francisco and Toronto). Major stations also have paper maps to help you get around and many bus stops have full system maps posted in the shelters. Any San Francisco guide book should also have information about public transit.</p>
 						</div>
 						</div>
 						</div>
@@ -145,6 +146,7 @@ include("head.html")
 				<div id="collapseToWeddingAccordionOne" class="accordion-body collapse" aria-expanded="false" style="">
 				<div class="panel-body">
 					<p>Our preferred rideshare program is <a href="http://lyft.com">Lyft</a>. If you haven't used Lyft before you can sign up with our referral code, "SARAHMATTHEWWED" to get a $5 credit to your first ride. Rides from the hotels to the wedding venue can be as cheap as $4 for up to two people if you use Lyft Line.</p>
+					<p>A few tips For those that haven’t used a ridesharing service before. If you want a car all to yourself or are traveling with more than 2 people, request a regular Lyft. If your party is 1-2 people, you don’t mind sharing your ride, and you aren’t in a hurry, we recommend requesting a Lyft Line which pairs your party up with other riders and is often cheaper than a regular Lyft. Uber has a similar system with UberX (car just for you and your party) and Uber Pool (shared ride).</p>
 				</div>
 				</div>
 				</div>

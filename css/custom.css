@@ -44,6 +44,19 @@ section.page-header.color-quaternary h1 {
 	border-top: 5px solid #FFF;
 }
 
+#header .header-btn-collapse-nav-primary {
+	background: #0f6489;
+}
+#header .header-btn-collapse-nav-secondary {
+	background: #6a5d93;
+}
+#header .header-btn-collapse-nav-tertiary {
+	background: #a985a9;
+}
+#header .header-btn-collapse-nav-quaternary {
+	background: #77bdb5;
+}
+
 html {
 	position: relative;
 	min-height: 100%;

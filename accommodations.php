@@ -19,7 +19,7 @@ include("head.html")
 	<div class="row">
 		<div class="col-md-8">
 			<h3 class="heading-<?php echo $gPageColor; ?>"><strong>Kimpton Buchanan</strong></h3>
-			<p>The Kimpton Buchanan Hotel is located between Japantown and The Fillmore neighbourhood and was recently renovated from top to bottom. The hotel has a small on-site restaurant, complimentary wifi, fitness center, loaner bikes, outdoor courtyard, and a free evening wine hour. Price, location, and features make this hotel our top recommendation for guests coming to the wedding.</p>
+			<p>The Kimpton Buchanan Hotel, recently renovated from top to bottom, is located between Japantown and The Fillmore neighbourhood. The hotel has a small on-site restaurant, complimentary wifi, fitness center, loaner bikes, outdoor courtyard, and a free evening wine hour. Price, location, and features make this hotel our top recommendation for guests coming to the wedding.</p>
 			<p>We have secured preferred pricing for four nights. The pricing is for single/double occupancy in standard rooms with either a single king bed or two queen beds. The charge is $20/night for each extra guest in a room. Parking is $38/night.</p>
 			<h5 class="heading-<?php echo $gPageColor; ?>">Nightly pricing for one or two people</h5>
 			<table class="table">

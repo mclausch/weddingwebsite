@@ -12,6 +12,8 @@ include("head.html")
 		<div class="col-md-12">
 			<p>San Francisco is a geographically small, dense city (a square, 7 miles per side) that can be experienced easily through a combination of walking, biking, public transit, taxis, and ride-sharing programs. It is well connected to the rest of California via major highways and a north south rail line, and it is well connected to the world through three nearby international airports.</p>
 
+			<hr/>
+
 			<h3 class="heading-<?php echo $gPageColor; ?>">Getting to <strong>San Francisco</strong></h3>
 			<div class="panel-group panel-group-<?php echo $gPageColor; ?>" id="toSFaccordion">
 				<div class="panel panel-default">
@@ -133,7 +135,7 @@ include("head.html")
 				</div>
 			</div>
 
-			<br/>
+			<hr/>
 
 			<h3 class="heading-<?php echo $gPageColor; ?>">Getting to the <strong>Wedding</strong></h3>
 			<p>Our wedding ceremony and reception will be held at the <a href="https://goo.gl/maps/PJ8yq5ynWDA2">Presidio Log Cabin</a>, located at 1299 Storey Avenue in the Presidio of San Francisco. Parking will be available at the wedding venue, however we strongly recommend guests avoid driving in order to maximize their enjoyment of the reception.</p>

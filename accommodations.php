@@ -23,7 +23,7 @@ include("head.html")
 				<thead><tr><th>May 25</th><th>May 26</th><th style="color: <?php echo $gPrimaryColor; ?>"><em><strong>May 27</strong></em></th><th>May 28</th></thead>
 				<tbody><tr><td>$220</td><td>$220</td><td style="color: <?php echo $gPrimaryColor; ?>"><em><strong>$165</strong></em></td><td>$165</td></tbody>
 			</table>
-			<p>To book with our preferred pricing please call the hotel at +1-415-921-4000 and mention that you'd like to reserve rooms as part of the Utley-Lausch wedding block. You can also book online using the group code "LU1" or by clicking <a href="https://gc.synxis.com/rez.aspx?Hotel=62437&Chain=10179&group=LU1"><strong>here</strong></a>.</p>
+			<p>To book with our preferred pricing please call the hotel at +1-415-921-4000 and mention that you'd like to reserve rooms as part of the Utley-Lausch wedding block. You can also book online using the group code "LU1" or by clicking <a href="https://gc.synxis.com/rez.aspx?Hotel=62437&Chain=10179&group=LU1" target="_blank"><strong>here</strong></a>.</p>
 		</div>
 		<div class="col-md-4">
 			<div class="owl-carousel owl-theme" data-plugin-options="{'items': 1, 'margin': 10}">
@@ -45,7 +45,7 @@ include("head.html")
 				<thead><tr><th>May 26</th><th style="color: <?php echo $gPrimaryColor; ?>"><em><strong>May 27</strong></em></th></thead>
 				<tbody><tr><td>$205</td><td style="color: <?php echo $gPrimaryColor; ?>"><em><strong>$205</strong></em></td></tbody>
 			</table>
-			<p>To book with our preferred pricing please call the hotel at +1-415-441-4000 and mention that you'd like to reserve rooms as part of the Utley-Lausch wedding block. You can also book online by clicking <a href="https://www.holidayinn.com/redirect?path=hd&brandCode=hi&localeCode=en&regionCode=1&hotelCode=sfogg&_PMID=99801505&GPC=sul&viewfullsite=true"><strong>here</strong></a>.</p>
+			<p>To book with our preferred pricing please call the hotel at +1-415-441-4000 and mention that you'd like to reserve rooms as part of the Utley-Lausch wedding block. You can also book online by clicking <a href="https://www.holidayinn.com/redirect?path=hd&brandCode=hi&localeCode=en&regionCode=1&hotelCode=sfogg&_PMID=99801505&GPC=sul&viewfullsite=true" target="_blank"><strong>here</strong></a>.</p>
 		</div>
 		<div class="col-md-4">
 			<div class="owl-carousel owl-theme" data-plugin-options="{'items': 1, 'margin': 10}">
@@ -60,9 +60,8 @@ include("head.html")
 
 		<div class="col-md-12">
 			<h3 class="heading-<?php echo $gPageColor; ?>"><strong>Other Options</strong></h3>
-			<p>San Francisco has many other excellent hotels of all shapes and sizes. We recommend using <a href="http://kayak.com">Kayak</a> or <a href="https://www.google.com/maps/search/hotels/sanfrancisco">Google Hotels</a> to search for hotel deals if you'd like to explore other possibilities. Those looking for a more luxurious stay should check out the <a href="http://www.fairmont.com/san-francisco/">Fairmont San Francisco</a> (starting at $300/night). The <a href="http://www.coventrymotorinn.com/">Coventry Inn</a> and the <a href="http://www.cowhollowmotorinn.com/">Cow Hollow Inn</a> provide good "no frills" accommodation.</p> 
-			<p><a href="http://airbnb.com">Airbnb</a> is a great option for those looking for a variety of options from staying in a single room in someone's home to taking over an entire apartment or house. Our favorite part about Airbnb is getting a place with kitchen so that we can cook some of our own meals.</p>
-			<p>If you've never used Airbnb before and would like to give it a try then you can use our <a href="http://www.airbnb.com/c/matthewl743"><strong>referral link</strong></a> to sign up and get $40 towards your first stay!</p>
+			<p>San Francisco has many other excellent hotels of all shapes and sizes. We recommend using <a href="http://kayak.com" target="_blank">Kayak</a> or <a href="https://www.google.com/maps/search/hotels/sanfrancisco" target="_blank">Google Hotels</a> to search for hotel deals if you'd like to explore other possibilities. Those looking for a more luxurious stay should check out the <a href="http://www.fairmont.com/san-francisco/" target="_blank">Fairmont San Francisco</a> (starting at $300/night). The <a href="http://www.coventrymotorinn.com/" target="_blank">Coventry Inn</a> and the <a href="http://www.cowhollowmotorinn.com/" target="_blank">Cow Hollow Inn</a> provide good "no frills" accommodation.</p> 
+			<p><a href="http://airbnb.com" target="_blank">Airbnb</a> is a great option for those looking for a variety of options from staying in a single room in someone's home to taking over an entire apartment or house. Our favorite part about Airbnb is getting a place with kitchen so that we can cook some of our own meals. If you've never used Airbnb before and would like to give it a try then you can use our <a href="http://www.airbnb.com/c/matthewl743" target="_blank"><strong>referral link</strong></a> to sign up and get $40 towards your first stay!</p>
 		</div>
 	</div>
 </div>

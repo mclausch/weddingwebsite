@@ -47,6 +47,18 @@
 		<!-- Theme Initialization Files -->
 		<script src="js/theme.init.js"></script>
 
+<?php
+if (array_key_exists('gMapJS', $GLOBALS))
+{
+	echo "\t\t<!-- Google Maps stuff -->\n";
+	echo "\t\t" . '<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDzoTutAb9H8-A60Mn5HlldHNkc9RBuQxY"></script>' . "\n";
+	echo "\t\t<script>\n";
+	global $gMapJS;
+	echo $gMapJS;
+	echo "\t\t</script>\n";
+}
+?>
+
 		<!-- Google Analytics: Change UA-XXXXX-X to be your site's ID. Go to http://www.google.com/analytics/ for more information.
 		<script>
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

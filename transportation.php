@@ -30,7 +30,7 @@ include("head.html")
 					</ul>
 					<p>For guests arriving from the Greater Toronto Area, SFO is probably the best option with multiple direct flights (Air Canada) each day from Toronto Pearson International Airport (YYZ).</p>
 					<p>For everyone else, SFO and OAK are equally convenient to the city center. SJC is less convenient, with fewer transportation options to the city.</p>
-					<p>We strongly recommend using <a href="http://flights.google.com">Google Flights</a> to search for flights. It does not provide a booking engine, but normally provides links to book directly with the airline. If you have any problems finding or booking flights please feel free to reach out to us and we'll help out.</p>
+					<p>We strongly recommend using <a href="http://flights.google.com" target="_blank">Google Flights</a> to search for flights. It does not provide a booking engine, but normally provides links to book directly with the airline. If you have any problems finding or booking flights please feel free to reach out to us and we'll help out.</p>
 
 					<h5 class="heading-<?php echo $gPageColor; ?>">Ground Transportation Options from SFO and OAK</h5>
 					<div class="panel-group panel-group-<?php echo $gPageColor; ?>" id="toSFaccordionAir">
@@ -62,7 +62,7 @@ include("head.html")
 						</div>
 						<div id="collapseToSFAirThree" class="accordion-body collapse" aria-expanded="false" style="">
 						<div class="panel-body">
-							<p>Several companies provide shared ride vans from SFO/OAK to San Francisco city center. We recommend <a href="https://www.supershuttle.com/locations/sanfranciscosfo/">SuperShuttle</a>. Reserve in advance for a discount. Prices start at $19 one way.</p>
+							<p>Several companies provide shared ride vans from SFO/OAK to San Francisco city center. We recommend <a href="https://www.supershuttle.com/locations/sanfranciscosfo/" target="_blank">SuperShuttle</a>. Reserve in advance for a discount. Prices start at $19 one way.</p>
 						</div>
 						</div>
 						</div>
@@ -74,7 +74,7 @@ include("head.html")
 						<div id="collapseToSFAirFour" class="accordion-body collapse" aria-expanded="false" style="">
 						<div class="panel-body">
 							<p>Ridesharing was born in the San Francisco Bay Area and is used heavily all over the region. If you will have data on your smartphone when you arrive at the airport this can be a cheaper (and often easier) option than a regular taxi.</p>
-							<p>Our preferred rideshare program is <a href="http://lyft.com">Lyft</a>. If you haven't used Lyft before you can sign up with our referral code, "SARAHMATTHEWWED" to get a $5 credit to your first ride. Rides from SFO range from $18 to $40. Rides from OAK are a bit more expensive due to the bridge toll. Ridesharing is also an inexpensive option for getting around the city.</p>
+							<p>Our preferred rideshare program is <a href="http://lyft.com" target="_blank">Lyft</a>. If you haven't used Lyft before you can sign up with our referral code, "SARAHMATTHEWWED" to get a $5 credit to your first ride. Rides from SFO range from $18 to $40. Rides from OAK are a bit more expensive due to the bridge toll. Ridesharing is also an inexpensive option for getting around the city.</p>
 							<p>A few tips For those that haven’t used a ridesharing service before. If you want a car all to yourself or are traveling with more than 2 people, request a regular Lyft. If your party is 1-2 people, you don’t mind sharing your ride, and you aren’t in a hurry, we recommend requesting a Lyft Line which pairs your party up with other riders and is often cheaper than a regular Lyft. Uber has a similar system with UberX (car just for you and your party) and Uber Pool (shared ride).</p>
 						</div>
 						</div>
@@ -86,10 +86,10 @@ include("head.html")
 						</div>
 						<div id="collapseToSFAirFive" class="accordion-body collapse" aria-expanded="false" style="">
 						<div class="panel-body">
-							<p>Both SFO and OAK are connected to San Francisco City Center via the <a href="https://www.bart.gov/guide/airport">Bay Area Rapid Transit system (BART)</a>. Fares are approximate $10 one way.</p>
-							<p> Within the city <a href="https://www.sfmta.com/">MUNI</a> runs city buses and light rail that provide surprisingly thorough coverage. Adult fares are $2.75 and allow unlimited transfers for 90 minutes.</p>
-							<p><a href="https://www.clippercard.com">Clipper Cards</a> are refillable transit payment cards that can be used on any transit system in the San Francisco Bay Area (including BART and MUNI). They can be purchased/reloaded at any major transit station or at any Walgreens pharmacy.</p>
-							<p>Google Maps and Apple Maps are both very good at providing directions and routing for public transit within San Francisco. <a href="http://rocketmanapp.com/">RocketMan</a> is an excellent app for tracking bus arrival times in many major cities (including San Francisco and Toronto). Major stations also have paper maps to help you get around and many bus stops have full system maps posted in the shelters. Any San Francisco guide book should also have information about public transit.</p>
+							<p>Both SFO and OAK are connected to San Francisco City Center via the <a href="https://www.bart.gov/guide/airport" target="_blank">Bay Area Rapid Transit system (BART)</a>. Fares are approximate $10 one way.</p>
+							<p> Within the city <a href="https://www.sfmta.com/" target="_blank">MUNI</a> runs city buses and light rail that provide surprisingly thorough coverage. Adult fares are $2.75 and allow unlimited transfers for 90 minutes.</p>
+							<p><a href="https://www.clippercard.com" target="_blank">Clipper Cards</a> are refillable transit payment cards that can be used on any transit system in the San Francisco Bay Area (including BART and MUNI). They can be purchased/reloaded at any major transit station or at any Walgreens pharmacy.</p>
+							<p>Google Maps and Apple Maps are both very good at providing directions and routing for public transit within San Francisco. <a href="http://rocketmanapp.com/" target="_blank">RocketMan</a> is an excellent app for tracking bus arrival times in many major cities (including San Francisco and Toronto). Major stations also have paper maps to help you get around and many bus stops have full system maps posted in the shelters. Any San Francisco guide book should also have information about public transit.</p>
 						</div>
 						</div>
 						</div>
@@ -118,7 +118,7 @@ include("head.html")
 				</div>
 				<div id="collapseToSFThree" class="accordion-body collapse" aria-expanded="false" style="">
 				<div class="panel-body">
-					<p><a href="https://www.amtrak.com">Amtrak</a> runs trains north and south along the state of California with a stop in Emeryville and connection buses to downtown San Francisco. MUNI, taxis, or rideshares can be used to connect to your final destination in the city.</p>
+					<p><a href="https://www.amtrak.com" target="_blank">Amtrak</a> runs trains north and south along the state of California with a stop in Emeryville and connection buses to downtown San Francisco. MUNI, taxis, or rideshares can be used to connect to your final destination in the city.</p>
 				</div>
 				</div>
 				</div>
@@ -138,7 +138,7 @@ include("head.html")
 			<hr/>
 
 			<h3 class="heading-<?php echo $gPageColor; ?>">Getting to the <strong>Wedding</strong></h3>
-			<p>Our wedding ceremony and reception will be held at the <a href="https://goo.gl/maps/PJ8yq5ynWDA2">Presidio Log Cabin</a>, located at 1299 Storey Avenue in the Presidio of San Francisco. Parking will be available at the wedding venue, however we strongly recommend guests avoid driving in order to maximize their enjoyment of the reception.</p>
+			<p>Our wedding ceremony and reception will be held at the <a href="https://goo.gl/maps/PJ8yq5ynWDA2" target="_blank">Presidio Log Cabin</a>, located at 1299 Storey Avenue in the Presidio of San Francisco. Parking will be available at the wedding venue, however we strongly recommend guests avoid driving in order to maximize their enjoyment of the reception.</p>
 
 			<div class="panel-group panel-group-<?php echo $gPageColor; ?>" id="toWeddingAccordion">
 				<div class="panel panel-default">
@@ -147,7 +147,7 @@ include("head.html")
 				</div>
 				<div id="collapseToWeddingAccordionOne" class="accordion-body collapse" aria-expanded="false" style="">
 				<div class="panel-body">
-					<p>Our preferred rideshare program is <a href="http://lyft.com">Lyft</a>. If you haven't used Lyft before you can sign up with our referral code, "SARAHMATTHEWWED" to get a $5 credit to your first ride. Rides from the hotels to the wedding venue can be as cheap as $4 for up to two people if you use Lyft Line.</p>
+					<p>Our preferred rideshare program is <a href="http://lyft.com" target="_blank">Lyft</a>. If you haven't used Lyft before you can sign up with our referral code, "SARAHMATTHEWWED" to get a $5 credit to your first ride. Rides from the hotels to the wedding venue can be as cheap as $4 for up to two people if you use Lyft Line.</p>
 					<p>A few tips For those that haven’t used a ridesharing service before. If you want a car all to yourself or are traveling with more than 2 people, request a regular Lyft. If your party is 1-2 people, you don’t mind sharing your ride, and you aren’t in a hurry, we recommend requesting a Lyft Line which pairs your party up with other riders and is often cheaper than a regular Lyft. Uber has a similar system with UberX (car just for you and your party) and Uber Pool (shared ride).</p>
 				</div>
 				</div>
@@ -213,7 +213,7 @@ include("head.html")
 				<div id="collapseToWeddingAccordionFive" class="accordion-body collapse" aria-expanded="false" style="">
 				<div class="panel-body">
 					<p>If you prefer to drive to the Presidio Log Cabin here are directions from the <a href="accommodations.php">wedding hotels</a>:</p>
-					<p><a href="https://goo.gl/maps/ZzwTPUkUTyr">From the Kimpton Buchanan</a></p>
+					<p><a href="https://goo.gl/maps/ZzwTPUkUTyr" target="_blank">From the Kimpton Buchanan</a></p>
 					<ol class="inline-bullets">
 					<li>Head west on Sutter St toward Webster St (away from downtown SF) </li>
 					<li>Turn left at the 1st cross street onto Webster St</li>
@@ -227,7 +227,7 @@ include("head.html")
 					<li>Slight left onto Battery Wagner Rd</li>
 					<li>Merge onto Storey Ave - Presidio Log Cabin will be on the right</li>
 					</ol>
-					<p><a href="https://goo.gl/maps/mhknXRQL6nv">From the Holiday Inn Golden Gateway</a></p>
+					<p><a href="https://goo.gl/maps/mhknXRQL6nv" target="_blank">From the Holiday Inn Golden Gateway</a></p>
 					<ol class="inline-bullets">
 					<li>Head west on Pine St (away from downtown SF)</li>
 					<li>Keep right to merge onto Euclid Ave</li>

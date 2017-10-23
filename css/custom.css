@@ -70,6 +70,15 @@ body {
 	margin-top: -20px;
 }
 
+table.schedule-table,
+table.schedule-table > tbody,
+table.schedule-table > tbody > tr,
+table.schedule-table > tbody > tr > td {
+	border: none;
+	border-color: white;
+	border-width: 0px;
+}
+
 #footer.short {
 	padding-top: 0px;
 	height: 63px;

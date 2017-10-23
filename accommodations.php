@@ -1,9 +1,73 @@
 <?php
 global $gTitle;
 global $gPageColor;
+global $gMapJS;
 
 $gTitle = "Accommodations";
 $gPageColor = "primary";
+$gMapJS = <<<EOT
+// Map Markers
+var mapMarkers = [
+	{
+		latitude: 37.80377,
+		longitude: -122.47330,
+		html: "<strong><a href=\"https://goo.gl/maps/idGQtfM4e772\" target=\"_blank\">Presidio Log Cabin</a></strong><br/>1299 Storey Ave<br/>San Francisco, CA",
+		popup: true
+	},
+	{
+		latitude: 37.78678,
+		longitude: -122.43023,
+		html: "<strong><a href=\"https://goo.gl/maps/LLwnwhAsqiC2\" target=\"_blank\">Kimpton Buchanan</a></strong><br/>1800 Sutter St<br/>San Francisco, CA",
+		popup: true
+	},
+	{
+		latitude: 37.78985,
+		longitude: -122.42191,
+		html: "<strong><a href=\"https://goo.gl/maps/1JCyshs2uF92\" target=\"_blank\">Holiday Inn Golden Gateway</a></strong><br/>1500 Van Ness Ave<br/>San Francisco, CA",
+		popup: true
+	},
+	{
+		latitude: 37.79249,
+		longitude: -122.41063,
+		html: "<strong><a href=\"https://goo.gl/maps/hoJg3jDso3Q2\" target=\"_blank\">Fairmont San Francisco</a></strong><br/>950 Mason St<br/>San Francisco, CA",
+		popup: false
+	},
+	{
+		latitude: 37.79991,
+		longitude: -122.43746,
+		html: "<strong><a href=\"https://goo.gl/maps/U7dPQ1QZJRn\" target=\"_blank\">Cow Hollow Inn</a></strong><br/>2190 Lombard St<br/>San Francisco, CA",
+		popup: false
+	},
+	{
+		latitude: 37.79998,
+		longitude: -122.43301,
+		html: "<strong><a href=\"https://goo.gl/maps/LjzoLdKa65B2\" target=\"_blank\">Coventry Inn</a></strong><br/>1901 Lombard St<br/>San Francisco, CA",
+		popup: false
+	},
+];
+
+// Map Extended Settings
+var mapSettings = {
+	controls: {
+		draggable: true,
+		panControl: true,
+		zoomControl: true,
+		mapTypeControl: false,
+		scaleControl: true,
+		streetViewControl: false,
+		overviewMapControl: true
+	},
+	scrollwheel: true,
+	markers: mapMarkers,
+	latitude: 37.79816,
+	longitude: -122.44224,
+	zoom: 14
+};
+
+$('#googlemaps').gMap(mapSettings);
+
+EOT;
+
 include("head.html")
 ?>
 
@@ -62,6 +126,12 @@ include("head.html")
 			<h3 class="heading-<?php echo $gPageColor; ?>"><strong>Other Options</strong></h3>
 			<p>San Francisco has many other excellent hotels of all shapes and sizes. We recommend using <a href="http://kayak.com" target="_blank">Kayak</a> or <a href="https://www.google.com/maps/search/hotels/sanfrancisco" target="_blank">Google Hotels</a> to search for hotel deals if you'd like to explore other possibilities. Those looking for a more luxurious stay should check out the <a href="http://www.fairmont.com/san-francisco/" target="_blank">Fairmont San Francisco</a> (starting at $300/night). The <a href="http://www.coventrymotorinn.com/" target="_blank">Coventry Inn</a> and the <a href="http://www.cowhollowmotorinn.com/" target="_blank">Cow Hollow Inn</a> provide good "no frills" accommodation.</p> 
 			<p><a href="http://airbnb.com" target="_blank">Airbnb</a> is a great option for those looking for a variety of options from staying in a single room in someone's home to taking over an entire apartment or house. Our favorite part about Airbnb is getting a place with kitchen so that we can cook some of our own meals. If you've never used Airbnb before and would like to give it a try then you can use our <a href="http://www.airbnb.com/c/matthewl743" target="_blank"><strong>referral link</strong></a> to sign up and get $40 towards your first stay!</p>
+		</div>
+
+		<div class="col-md-12">
+			<hr/>
+			<div id="googlemaps" class="google-map google-map-borders small" style="height:400px;"></div>
+			<hr/>
 		</div>
 	</div>
 </div>

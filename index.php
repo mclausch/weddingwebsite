@@ -14,7 +14,7 @@ var initLongitude = -122.47330;
 var mapMarkers = [{
 	latitude: initLatitude,
 	longitude: initLongitude,
-	html: "<strong>Presidio Log Cabin</strong><br/>1299 Storey Ave, San Francisco, CA",
+	html: "<strong><a href=\"https://goo.gl/maps/idGQtfM4e772\" target=\"_blank\">Presidio Log Cabin</a></strong><br/>1299 Storey Ave<br/>San Francisco, CA",
 	popup: true
 }];
 
@@ -93,10 +93,10 @@ include("head.html")
 			<hr class="short"/>
 			<p>
 				<strong>The Presidio Log Cabin</strong><br/>
-				<a href="https://goo.gl/maps/idGQtfM4e772" target="_blank">1299 Storey Avenue,<br/>
+				1299 Storey Avenue,<br/>
 				San Francisco, California</a>
 			</p>
-			<div id="googlemaps" class="google-map small"></div>
+			<div id="googlemaps" class="google-map google-map-borders small" style="height: 275px;"></div>
 			<br/>
 		</div>
 		<div class="col-md-4">

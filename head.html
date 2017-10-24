@@ -15,8 +15,30 @@ $gTertiaryColor = "#a985a9";
 $gTertiaryDarkColor = "#9e769e";
 $gQuaternaryColor = "#77bdb5";
 $gQuaternaryDarkColor = "#66b5ac";
-?>
 
+function insertPhotos($directory)
+{
+	$photos = scandir($directory);
+	$numPhotos = count($photos);
+	if ($numPhotos <= 0)
+	{
+		return;
+	}
+	shuffle($photos);
+	echo "\t\t\t<div class=\"owl-carousel owl-theme\" data-plugin-options=\"{'items': 1, 'margin': 10, 'animateOut': 'fadeOut', 'autoplay' : true, 'autoplayTimeout' : 4000}\">\n";
+	for ($i=0; $i<count($photos); $i++)
+	{
+		$photo = "$directory/$photos[$i]";
+		if (is_file($photo))
+		{
+			echo "\t\t\t\t<div><span class=\"img-thumbnail\">\n";
+			echo "\t\t\t\t\t<img alt=\"\" height=\"300\" class=\"img-responsive\" src=\"$photo\">\n";
+			echo "\t\t\t\t</span></div>\n";
+		}
+	}
+	echo "\t\t\t</div>\n";
+}
+?>
 <!DOCTYPE html>
 <html>
 	<head>
@@ -121,7 +143,6 @@ $gQuaternaryDarkColor = "#66b5ac";
 														<ul class="dropdown-menu">
 															<li><a href="about.php">Sarah + Matthew</a></li>
 															<li><a href="people.php">Important People</a></li>
-															<li><a href="photos.php">Photos</a></li>
 														</ul>
 													</li>
 													<li class="dropdown dropdown-full-color dropdown-tertiary active">

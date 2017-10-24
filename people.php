@@ -23,18 +23,7 @@ include("head.html")
 			-->
 		</div>
 		<div class="col-md-4">
-			<div class="owl-carousel owl-theme" data-plugin-options="{'items': 1, 'margin': 10}">
-				<div>
-					<span class="img-thumbnail">
-						<img alt="" height="300" class="img-responsive" src="img/sarah.jpg">
-					</span>
-				</div>
-				<div>
-					<span class="img-thumbnail">
-						<img alt="" height="300" class="img-responsive" src="img/matthew.jpg">
-					</span>
-				</div>
-			</div>
+<?php insertPhotos("img/mike"); ?>
 		</div>
 	</div>
 </div>

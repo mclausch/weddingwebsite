@@ -2,38 +2,30 @@
 global $gTitle;
 global $gPageColor;
 
-$gTitle = "The Wedding";
+$gTitle = "Gifts";
 $gPageColor = "primary";
 include("head.html")
 ?>
 
 <div class="container">
 	<div class="row">
-		<div class="col-md-8">
-			<h3 class="heading-<?php echo $gPageColor; ?>"><strong>Gifts</strong></h3>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc <a href="#">vehicula</a> lacinia. Proin adipiscing porta tellus, ut feugiat nibh adipiscing sit amet. In eu justo a felis faucibus ornare vel id metus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In eu libero ligula. Fusce eget metus lorem, ac viverra leo. Nullam convallis, arcu vel pellentesque sodales, nisi est varius diam, ac ultrices sem ante quis sem. Proin ultricies volutpat sapien, nec scelerisque ligula mollis lobortis.</p>
-			<p>Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc vehicula lacinia. Proin adipiscing porta tellus, ut feugiat nibh adipiscing <span class="alternative-font">metus</span> sit amet. In eu justo a felis faucibus ornare vel id metus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In eu libero ligula. Fusce eget metus lorem, ac viverra leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In eu libero ligula. Fusce eget metus lorem, ac viverra leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In eu libero ligula.</p>
-			<!--
-			<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-			<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-			<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-			<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-			<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-			-->
-		</div>
-		<div class="col-md-4">
-			<div class="owl-carousel owl-theme" data-plugin-options="{'items': 1, 'margin': 10}">
-				<div>
-					<span class="img-thumbnail">
-						<img alt="" height="300" class="img-responsive" src="img/sarah.jpg">
-					</span>
-				</div>
-				<div>
-					<span class="img-thumbnail">
-						<img alt="" height="300" class="img-responsive" src="img/matthew.jpg">
-					</span>
-				</div>
-			</div>
+		<div class="col-md-12">
+			<p>We desire nothing more than to have a wonderful evening with all of our family and friends. We both had established homes before we met and the combination of those two homes leaves us wanting for little (and our one-bedroom apartment has space for even less). We understand that many will be travelling from far away to visit San Francisco (an expensive city) so we want no one to feel any obligation to bring a gift of any kind.</p>
+			<p>If you'd like to give us something we would be truly honoured if you'd donate to one of our favourite charities:</p>
+			<table class="table">
+				<tbody>
+					<tr>
+						<td nowrap="nowrap"><strong><a href="https://www.sfmfoodbank.org">SF-Marin Food Bank</a></strong></td>
+						<td>Working to end hunger in San Francisco and Marin</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap"><strong><a href="http://826valencia.org">826 Valencia</a></strong></td>
+						<td>Dedicated to supporting under-resourced students ages six to eighteen with their creative and expository writing skills and to helping teachers inspire their students to write</td>
+					</tr>
+				</tbody>
+			</table>
+			<p>Of course we will also be delighted by and endlessly appreciative of any gifts we do receive. We have not registered anywhere, but we are always looking to improve our camping gear so gift certificates to <a href="https://www.rei.com/">REI</a> are a great choice.</p>
+			<p>Can't wait to see you at the wedding!</p>
 		</div>
 	</div>
 </div>

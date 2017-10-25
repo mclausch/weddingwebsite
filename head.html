@@ -26,7 +26,7 @@ function insertPhotos($directory)
 	}
 	shuffle($photos);
 	echo "\t\t\t<div class=\"owl-carousel owl-theme\" data-plugin-options=\"{'items': 1, 'margin': 10, 'animateOut': 'fadeOut', 'autoplay' : true, 'autoplayTimeout' : 4000}\">\n";
-	for ($i=0; $i<count($photos); $i++)
+	for ($i=0; $i<$numPhotos; $i++)
 	{
 		$photo = "$directory/$photos[$i]";
 		if (is_file($photo))
@@ -143,6 +143,7 @@ function insertPhotos($directory)
 														<ul class="dropdown-menu">
 															<li><a href="about.php">Sarah + Matthew</a></li>
 															<li><a href="people.php">Important People</a></li>
+															<li><a href="photos.php">Engagement Photos</a></li>
 														</ul>
 													</li>
 													<li class="dropdown dropdown-full-color dropdown-tertiary active">

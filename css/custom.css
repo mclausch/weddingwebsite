@@ -70,6 +70,31 @@ body {
 	margin-top: -20px;
 }
 
+a.title-text-logo {
+	font-family: 'Fredericka the Great';
+	font-size: 35px;
+}
+a.title-text-logo:hover {
+	text-decoration: none;
+}
+@media (min-width: 600px) {
+	a.title-text-logo {
+		font-size: 45px;
+	}
+}
+a.title-text-logo.color-primary {
+	color: #0f6489;
+}
+a.title-text-logo.color-secondary {
+	color: #6a5d93;
+}
+a.title-text-logo.color-tertiary {
+	color: #a985a9;
+}
+a.title-text-logo.color-quaternary {
+	color: #77bdb5;
+}
+
 table.schedule-table,
 table.schedule-table > tbody,
 table.schedule-table > tbody > tr,

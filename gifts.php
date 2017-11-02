@@ -15,12 +15,20 @@ include("head.html")
 			<table class="table">
 				<tbody>
 					<tr>
-						<td nowrap="nowrap"><strong><a href="https://www.sfmfoodbank.org">SF-Marin Food Bank</a></strong></td>
+						<td nowrap="nowrap"><strong><a href="https://www.sfmfoodbank.org" target="_blank">SF-Marin Food Bank</a></strong></td>
 						<td>Working to end hunger in San Francisco and Marin</td>
 					</tr>
 					<tr>
-						<td nowrap="nowrap"><strong><a href="http://826valencia.org">826 Valencia</a></strong></td>
+						<td nowrap="nowrap"><strong><a href="http://826valencia.org" target="_blank">826 Valencia</a></strong></td>
 						<td>Dedicated to supporting under-resourced students ages six to eighteen with their creative and expository writing skills and to helping teachers inspire their students to write</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap"><strong><a href="https://www.roomtoread.org" target="_blank">Room to Read</a></strong></td>
+						<td>An amazing non-profit focused on developing literacy skills and reading among primary school children, including supporting young girls to finish secondary school</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap"><strong><a href="http://www.womaninc.org" target="_blank">W.O.M.A.N. Inc</a></strong></td>
+						<td>Supporting those impacted by violence by providing innovative services and programs that build stronger, safer communities</td>
 					</tr>
 				</tbody>
 			</table>

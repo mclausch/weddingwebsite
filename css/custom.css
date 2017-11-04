@@ -44,6 +44,11 @@ section.page-header.color-quaternary h1 {
 	border-top: 5px solid #FFF;
 }
 
+#header .header-btn-collapse-nav {
+	margin-top: 0px;
+	margin-bottom: 2px;
+}
+
 #header .header-btn-collapse-nav-primary {
 	background: #0f6489;
 }

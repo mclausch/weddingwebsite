@@ -16,7 +16,7 @@ $gTertiaryDarkColor = "#9e769e";
 $gQuaternaryColor = "#77bdb5";
 $gQuaternaryDarkColor = "#66b5ac";
 
-function insertPhotos($directory)
+function insertPhotos($directory, $captions=array())
 {
 	$photos = scandir($directory);
 	$numPhotos = count($photos);
@@ -24,16 +24,26 @@ function insertPhotos($directory)
 	{
 		return;
 	}
-	shuffle($photos);
+	$numCaptions = count($captions);
+	if ($numCaptions <= 0)
+	{
+		shuffle($photos);
+	}
 	echo "\t\t\t<div class=\"owl-carousel owl-theme\" data-plugin-options=\"{'items': 1, 'margin': 10, 'animateOut': 'fadeOut', 'autoplay' : true, 'autoplayTimeout' : 4000}\">\n";
+	$photoCount = 0;
 	for ($i=0; $i<$numPhotos; $i++)
 	{
 		$photo = "$directory/$photos[$i]";
 		if (is_file($photo))
 		{
-			echo "\t\t\t\t<div><span class=\"img-thumbnail\">\n";
+			echo "\t\t\t\t<div>\n";
 			echo "\t\t\t\t\t<img alt=\"\" height=\"300\" class=\"img-responsive\" src=\"$photo\">\n";
-			echo "\t\t\t\t</span></div>\n";
+			if ($photoCount < $numCaptions)
+			{
+				echo "\t\t\t\t\t<span>$captions[$photoCount]</span>\n";
+			}
+			echo "\t\t\t\t</div>\n";
+			$photoCount += 1;
 		}
 	}
 	echo "\t\t\t</div>\n";

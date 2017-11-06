@@ -81,7 +81,7 @@ include("head.html")
 		<div class="col-md-8">
 			<h3 class="heading-<?php echo $gPageColor; ?>"><strong>Kimpton Buchanan</strong></h3>
 			<p>The Kimpton Buchanan Hotel, recently renovated from top to bottom, is located between Japantown and The Fillmore neighbourhood. The hotel has a small on-site restaurant, complimentary wifi, fitness center, loaner bikes, outdoor courtyard, and a free evening wine hour. Price, location, and features make this hotel our top recommendation for guests coming to the wedding.</p>
-			<p>We have secured preferred pricing for four nights. The pricing is for single/double occupancy in standard rooms with either a single king bed or two queen beds. The charge is $20/night for each extra guest in a room. Parking is $38/night.</p>
+			<p>We have secured preferred pricing for four nights. The pricing is for single/double occupancy in standard rooms with either a single king bed or two queen beds. The charge is $20/night for each extra guest in a room. Parking is $38/night. You can book any subset of the nights, there is no requirement to book all four.</p>
 			<h5 class="heading-<?php echo $gPageColor; ?>">Nightly pricing for one or two people</h5>
 			<table class="table">
 				<thead><tr><th>May 25</th><th>May 26</th><th style="color: <?php echo $gPrimaryColor; ?>"><em><strong>May 27</strong></em></th><th>May 28</th></thead>
@@ -103,7 +103,7 @@ include("head.html")
 		<div class="col-md-8">
 			<h3 class="heading-<?php echo $gPageColor; ?>"><strong>Holiday Inn Golden Gateway</strong></h3>
 			<p>The Holiday Inn Golden Gateway is located near the Nob Hill neighbourhood and at 26 stories tall has commanding views of the city. It features complimentary wifi, a swimming pool, a fitness center, and on-site restaurant. If the Kimpton is fully booked we recommend the Holiday Inn Golden Gateway.</p>
-			<p>We have secured preferred pricing for two nights. The pricing is for single/double occupancy in standard rooms with either a single king bed or two double beds. The charge is $20/night for each extra guest in a room. Parking is $40/night.</p>
+			<p>We have secured preferred pricing for two nights. The pricing is for single/double occupancy in standard rooms with either a single king bed or two double beds. The charge is $20/night for each extra guest in a room. Parking is $40/night. You can book any subset of the nights, there is no requirement to book both.</p>
 			<h5 class="heading-<?php echo $gPageColor; ?>">Nightly pricing for one or two people</h5>
 			<table class="table">
 				<thead><tr><th>May 26</th><th style="color: <?php echo $gPrimaryColor; ?>"><em><strong>May 27</strong></em></th></thead>

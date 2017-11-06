@@ -11,9 +11,10 @@ include("head.html")
 	<div class="row">
 		<div class="col-md-8">
 			<h3 class="heading-<?php echo $gPageColor; ?>"><strong>Sarah's Family</strong>, by Sarah</h3>
-			<p>Here is a rundown of my whole family clan for those that don't know them! First are my amazing, supportive and loving parents Debbie and David Utley, who live in southern California. Also present will be my wonderful Nan, who taught me to love baking since I was a young girl and who I can't imagine having grown up without. My mom, my nan and I look SO much alike (see the pictures)!</p>
-			<p>I have three awesome older brothers: Chris, Eric, and Ben. They are all hilarious and loud and the coolest older brothers a younger sister could ask for. All of their partners are also wonderful people. I now have an amazing sister-in-law, Ariana (Chris's wife), a super cool brother-in-law, Rey (Eric's husband), and I can't wait to soon be calling Melissa my sister-in-law too (Ben's fianc&#233;e)! Melissa's wonderful daughter, Destiny, and son, Bryan, are also joining the crew and we couldn't be happier.</p>
-			<p>We are all a bunch of huge nerds and I have very fond memories of our noisy, crowded family vacations and epic road trips which were only complete with a full retelling of "Who's On First" by Abbott and Costello and listening to the Abba Gold album on cassette tape until it broke! I definitely don't get to see them all as often as I would like, but we keep in touch as much as we can with a sometimes overwhelming amount of WhatsApp messages.</p>
+			<p>Here is a rundown of my whole family clan for those that don't know them! First are my amazing, loving parents Debbie &amp; David Utley who have always supported and inspired me to follow my dreams. Also present will be my wonderful Nan, who taught me to love baking since I was a young girl and who I can't imagine having grown up without.</p>
+			<p>I have three awesome older brothers: Chris, Eric and Ben. They are all hilarious and loud and the coolest oldest brothers a younger sister could ask for. I love you guys and can't believe I'm so lucky to be able to call you my best friends and brothers!</p>
+			<p>Their wonderful life partners include my amazing sister-in-law, Ariana (Chris's wife), a super cool brother-in-law, Rey (Eric's husband), and I can't wait to soon be calling Melissa (Ben's fianc&#233;e) my sister-in-law too! Melissa's wonderful daughter and son, Destiny and Bryan, are also joining the crew and we couldn't be happier.</p>
+			<p>We are all a bunch of huge nerds and I have very fond memories of our noisy, crowded family vacations and epic road trips, which were only complete with a full retelling of "Who's On First" by Abbott and Costello and listening to the Abba Gold Album on tape until it broke! I definitely don't get to see them all as often as I would like, but we keep in touch as much as we can with a sometimes overwhelming amount of WhatsApp messages.</p>
 		</div>
 		<div class="col-md-4">
 <?php insertPhotos("img/sarahfamily"); ?>
@@ -47,10 +48,11 @@ include("head.html")
 	<div class="row">
 		<div class="col-md-8">
 			<h3 class="heading-<?php echo $gPageColor; ?>"><strong>Kate Marsh</strong>, by Sarah</h3>
-			<p>I couldn't be happier that Kate is going to stand up as my witness the day of our marriage. She is a solid rock of support and joy in our lives. She is an amazing artist, a talented cook, and always has fantastic book recommendations. She has been with us through our entire relationship as Matt and I have gotten to know one another, fallen in love, and decided we wanted to spend the rest of our lives together. Kate, you truly are the best!</p>
+			<p>I couldn't be happier that Kate is going to stand up as my witness the day of our marriage. She is a solid rock of support and joy in our lives. We originally met playing Ultimate Frisbee down in Los Angeles when I was at USC for graduate school and Kate was an undergrad. It wasn't until I moved to SF that our friendship really kicked off though. Kate invited me to one of her Open Studios art shows (she is an amazing artist and several of her paintings have a special wall in our apartment!). Following us reconnecting she invited me to join a group of friends for the weekly "Disney Club," in which they were watching all of the animated Disney films in chronological order. Kate and her husband Riley are fantastic hosts and made me feel truly at home in a new city after my move. She is an especially amazing cook and always has the best book recommendations. Many of my most epic book hangovers in the past few years have been due to her!</p>
+			<p>I ended up bringing Matt to a film night on our 3rd date, so she and her husband (and the whole film night crew!) has been with us through our entire relationship as Matt and I have gotten to know one another, fallen in love, and decided we wanted to spend the rest of our lives together. Kate and Riley, you truly are the best, we are so lucky to have you both in our lives!</p>
 		</div>
 		<div class="col-md-4">
-<?php insertPhotos("img/kate", array("lkasjf laskdjf asf", "lksjdf")); ?>
+<?php insertPhotos("img/kate", array("Halloween!", "Skiing")); ?>
 		</div>
 	</div>
 
@@ -68,7 +70,7 @@ include("head.html")
 			<p>In 2016 I was honoured to be Mike's best man at his wedding in Arizona and I can't imagine anyone else standing up with me as I join my life with Sarah's. We're so happy that Mike and his wife Michal can be a part of our lives!</p>
 		</div>
 		<div class="col-md-4">
-<?php insertPhotos("img/mike", array("lkasjf laskdjf asf", "lksjdf")); ?>
+<?php insertPhotos("img/mike"); ?>
 		</div>
 	</div>
 </div>

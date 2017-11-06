@@ -35,7 +35,20 @@ include("head.html")
 			<p>I have also been supported and loved throughout my life by a large and inclusive extended family, many of whom will be making the trip to San Francisco to join us at the wedding. I can't wait to celebrate with everyone!</p>
 		</div>
 		<div class="col-md-4">
-<?php insertPhotos("img/matthewfamily"); ?>
+<?php insertPhotos("img/matthewfamily", array("My Mom and I at Twin Peaks in San Francisco",
+                                              "Mom, Sarah, and I at Mike's wedding in Arizona",
+											  "Mom, Sarah, and I in a Redwood on the Steep Ravine trail north of San Francisco",
+											  "My Mom and Sarah, near my mom's home in London, Ontario, Canada",
+											  "My Dad and I when I was a baby and at the height of my musical talents",
+											  "My Dad and his wife Carol near their home north of Toronto",
+											  "Anthony on a visit to San Francisco",
+											  "Anthony making poor life choices in dress shoes in France",
+											  "Anthony running from or perhaps to something in France",
+											  "Anthony and I in our cuter days",
+											  "Anthony and I looking serious at our cousin's wedding in Ottawa",
+											  "Anthony, Mom, and I in Honfleur, France",
+											  "Anthony, Mom, and I braving the mist of Gullfoss in Iceland"));
+?>
 		</div>
 	</div>
 
@@ -52,7 +65,8 @@ include("head.html")
 			<p>I ended up bringing Matt to a film night on our 3rd date, so she and her husband (and the whole film night crew!) has been with us through our entire relationship as Matt and I have gotten to know one another, fallen in love, and decided we wanted to spend the rest of our lives together. Kate and Riley, you truly are the best, we are so lucky to have you both in our lives!</p>
 		</div>
 		<div class="col-md-4">
-<?php insertPhotos("img/kate", array("Halloween!", "Skiing")); ?>
+<?php insertPhotos("img/kate", array("Kate, Matt, and I dressed up for Halloween",
+                                     "Kate ready for skiing with her super awesome frog hat")); ?>
 		</div>
 	</div>
 
@@ -70,7 +84,20 @@ include("head.html")
 			<p>In 2016 I was honoured to be Mike's best man at his wedding in Arizona and I can't imagine anyone else standing up with me as I join my life with Sarah's. We're so happy that Mike and his wife Michal can be a part of our lives!</p>
 		</div>
 		<div class="col-md-4">
-<?php insertPhotos("img/mike"); ?>
+<?php insertPhotos("img/mike", array("Mike in Scotland visiting his favourite distillery in the world: Glenmorangie",
+                                     "Mike and I looking sharp for a wedding",
+									 "Mike, his wife Michal, Sarah, and I enjoying a fine dinner at their house",
+									 "Mike, Michal, Sarah, and I dancing at the Lucasfilm Holiday Party",
+									 "Mike and Michal, newly engaged",
+									 "Just a typical day at work for Mike",
+									 "Mike doing the Computer Science",
+									 "Mike and I as awkward pre-teens",
+									 "Mike and I as awkward teenagers",
+									 "Mike and I as awkward adults",
+									 "Me helping Mike prepare for his wedding day",
+									 "Mike and I at Skywalker Ranch",
+									 "Mike and I with a legit DeLorean DMC-12 at work",
+									 "Mike and I in our \"Star Wars: The Force Awakens\" crew jackets")); ?>
 		</div>
 	</div>
 </div>

@@ -1,5 +1,15 @@
 /* Add here all your CSS customizations */
 
+.page-header {
+	padding: 10px 0;
+}
+
+.page-header h1 {
+	border-bottom: none;
+	padding: 0px;
+	margin: 0px;
+}
+
 section.page-header.color-primary {
 	border-top: 5px solid #0c5372;
 	border-bottom: 5px solid #0c5372;

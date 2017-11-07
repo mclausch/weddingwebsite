@@ -17,7 +17,23 @@ include("head.html")
 			<p>We are all a bunch of huge nerds and I have very fond memories of our noisy, crowded family vacations and epic road trips, which were only complete with a full retelling of "Who's On First" by Abbott and Costello and listening to the Abba Gold Album on tape until it broke! I definitely don't get to see them all as often as I would like, but we keep in touch as much as we can with a sometimes overwhelming amount of WhatsApp messages.</p>
 		</div>
 		<div class="col-md-5">
-<?php insertPhotos("img/sarahfamily"); ?>
+<?php insertPhotos("img/sarahfamily", array("Family Christmas 2015! Left-to-right: Matthew, Sarah, David (Dad), Melissa, Bryan, Debbie (Mom), Ben, Destiny, Ariana, Chris, Mary (Nan), Eric, Rey",
+                                            "Family Christmas 2016! Left-to-right: Melissa, Mary (Nan), Ben, Ariana, Chris, Rey, Eric, Sarah, David (Dad), Debbie (Mom), Matthew",
+											"Best picture of my Dad, taken by Matthew",
+											"My Mom, my Nan, and me",
+											"Eric, Ben, me, and Chris",
+											"Hiking with the family in Mammoth",
+											"Family Thanksgiving in our cozy apartment with 14 guests including Matt's mom",
+											"Chris photobombing at Christmas",
+											"Nan and I",
+											"Mountain biking adventures with the family in Mammoth",
+											"Ready to go caving with Ben, Melissa, and the kids in north-eastern California",
+											"Breakfast with the family",
+											"Ariana, Chris, and their Kelpie-dog, Callie",
+											"Bryan, Eric, me, and Ben",
+											"Matthew, me, and Ben about to bike across the Golden Gate bridge, foggy as usual",
+											"Ariana and Callie having some quality time",
+											"Eric and his puppers Cookie")); ?>
 		</div>
 	</div>
 

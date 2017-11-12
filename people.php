@@ -2,7 +2,7 @@
 global $gTitle;
 global $gPageColor;
 
-$gTitle = "Important People";
+$gTitle = "People To Know";
 $gPageColor = "secondary";
 include("head.html")
 ?>
@@ -81,8 +81,14 @@ include("head.html")
 			<p>I ended up bringing Matt to a film night on our 3rd date, so she and her husband (and the whole film night crew!) has been with us through our entire relationship as Matt and I have gotten to know one another, fallen in love, and decided we wanted to spend the rest of our lives together. Kate and Riley, you truly are the best, we are so lucky to have you both in our lives!</p>
 		</div>
 		<div class="col-md-5">
-<?php insertPhotos("img/kate", array("Kate, Matt, and I dressed up for Halloween",
-                                     "Kate ready for skiing with her super awesome frog hat")); ?>
+<?php insertPhotos("img/kate", array("Kate with one of her amazing paintings",
+                                     "Kate ready for skiing with her super awesome frog hat",
+									 "Kate and I at a Frozen sing-a-long screening",
+									 "Kate and I dressed up as Princess Bride characters",
+									 "Kate and her super awesome husband Riley",
+                                     "Kate, Matt, and I dressed up for Halloween (with special guest, Sir the dog)",
+									 "Kate at one of her gallery showings",
+									 "Kate with a crazy statue")); ?>
 		</div>
 	</div>
 

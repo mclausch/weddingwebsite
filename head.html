@@ -106,6 +106,13 @@ function insertPhotos($directory, $captions=array())
 					echo "background-color: " . $$colorString . ";\n";
 				?>
 			}
+
+			a.body-link, a.body-link:hover {
+				<?php
+					$colorString = "g" . ucfirst($gPageColor) . "Color";
+					echo "color: " . $$colorString . ";\n";
+				?>
+			}
 		</style>
 
 		<!-- Head Libs -->

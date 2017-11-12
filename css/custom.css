@@ -85,6 +85,10 @@ body {
 	margin-top: -20px;
 }
 
+a.body-link {
+	text-decoration: underline;
+}
+
 a.title-text-logo {
 	font-family: 'Fredericka the Great';
 	font-size: 35px;

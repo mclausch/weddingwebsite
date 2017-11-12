@@ -14,7 +14,7 @@ var initLongitude = -122.47330;
 var mapMarkers = [{
 	latitude: initLatitude,
 	longitude: initLongitude,
-	html: "<strong><a href=\"https://goo.gl/maps/idGQtfM4e772\" target=\"_blank\">Presidio Log Cabin</a></strong><br/>1299 Storey Ave<br/>San Francisco, CA",
+	html: "<strong><a class=\"body-link\" href=\"https://goo.gl/maps/idGQtfM4e772\" target=\"_blank\">Presidio Log Cabin</a></strong><br/>1299 Storey Ave<br/>San Francisco, CA",
 	popup: true
 }];
 
@@ -83,7 +83,7 @@ include("head.html")
 <div class="container">
 	<div class="row">
 		<div class="col-md-12">
-			<p>Hello family and friends! We are very much looking forward to celebrating our wedding with you and hope you'll be able to <a href="rsvp.php">attend</a>. This website contains all the information you need to know to join us for the ceremony and reception! It also contains information about <a href="transportation.php">transportation</a> and <a href="accommodations.php">accommodations</a> for our guests from out of town. Finally, we've included tons of information on all our favourite things in the <a href="sf.php">San Francisco Bay Area</a> if you're looking for things to do (and/or eat!) before and after the wedding.</p>
+			<p>Hello family and friends! We are very much looking forward to celebrating our wedding with you and hope you'll be able to <a class="body-link" href="rsvp.php">attend</a>. This website contains all the information you need to know to join us for the ceremony and reception! It also contains information about <a class="body-link" href="transportation.php">transportation</a> and <a class="body-link" href="accommodations.php">accommodations</a> for our guests from out of town. Finally, we've included tons of information on all our favourite things in the <a class="body-link" href="sf.php">San Francisco Bay Area</a> if you're looking for things to do (and/or eat!) before and after the wedding.</p>
 		</div>
 	</div>
 

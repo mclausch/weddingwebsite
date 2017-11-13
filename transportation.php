@@ -18,7 +18,7 @@ include("head.html")
 			<div class="panel-group panel-group-<?php echo $gPageColor; ?>" id="toSFaccordion">
 				<div class="panel panel-default">
 				<div class="panel-heading">
-					<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toSFaccordion" href="#collapseToSFOne" aria-expanded="false">By Air</a></h5>
+					<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toSFaccordion" href="#collapseToSFOne" aria-expanded="false"> By Air</a></h5>
 				</div>
 				<div id="collapseToSFOne" class="accordion-body collapse" aria-expanded="false" style="">
 				<div class="panel-body">
@@ -36,7 +36,7 @@ include("head.html")
 					<div class="panel-group panel-group-<?php echo $gPageColor; ?>" id="toSFaccordionAir" style="padding-left:20px;">
 						<div class="panel panel-default">
 						<div class="panel-heading">
-							<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toSFaccordionAir" href="#collapseToSFAirOne" aria-expanded="false">Taxi</a></h5>
+							<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toSFaccordionAir" href="#collapseToSFAirOne" aria-expanded="false"> Taxi</a></h5>
 						</div>
 						<div id="collapseToSFAirOne" class="accordion-body collapse" aria-expanded="false" style="">
 						<div class="panel-body">
@@ -47,7 +47,7 @@ include("head.html")
 
 						<div class="panel panel-default">
 						<div class="panel-heading">
-							<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toSFaccordionAir" href="#collapseToSFAirTwo" aria-expanded="false">Car Rental</a></h5>
+							<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toSFaccordionAir" href="#collapseToSFAirTwo" aria-expanded="false"> Car Rental</a></h5>
 						</div>
 						<div id="collapseToSFAirTwo" class="accordion-body collapse" aria-expanded="false" style="">
 						<div class="panel-body">
@@ -58,7 +58,7 @@ include("head.html")
 
 						<div class="panel panel-default">
 						<div class="panel-heading">
-							<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toSFaccordionAir" href="#collapseToSFAirThree" aria-expanded="false">Shared Ride Van</a></h5>
+							<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toSFaccordionAir" href="#collapseToSFAirThree" aria-expanded="false"> Shared Ride Van</a></h5>
 						</div>
 						<div id="collapseToSFAirThree" class="accordion-body collapse" aria-expanded="false" style="">
 						<div class="panel-body">
@@ -69,7 +69,7 @@ include("head.html")
 
 						<div class="panel panel-default">
 						<div class="panel-heading">
-							<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toSFaccordionAir" href="#collapseToSFAirFour" aria-expanded="false">Rideshare (Lyft/Uber)</a></h5>
+							<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toSFaccordionAir" href="#collapseToSFAirFour" aria-expanded="false"> Rideshare (Lyft/Uber)</a></h5>
 						</div>
 						<div id="collapseToSFAirFour" class="accordion-body collapse" aria-expanded="false" style="">
 						<div class="panel-body">
@@ -82,7 +82,7 @@ include("head.html")
 
 						<div class="panel panel-default">
 						<div class="panel-heading">
-							<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toSFaccordionAir" href="#collapseToSFAirFive" aria-expanded="false">Public Transit</a></h5>
+							<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toSFaccordionAir" href="#collapseToSFAirFive" aria-expanded="false"> Public Transit</a></h5>
 						</div>
 						<div id="collapseToSFAirFive" class="accordion-body collapse" aria-expanded="false" style="">
 						<div class="panel-body">
@@ -103,7 +103,7 @@ include("head.html")
 
 				<div class="panel panel-default">
 				<div class="panel-heading">
-					<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toSFaccordion" href="#collapseToSFTwo" aria-expanded="false">By Road</a></h5>
+					<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toSFaccordion" href="#collapseToSFTwo" aria-expanded="false"> By Road</a></h5>
 				</div>
 				<div id="collapseToSFTwo" class="accordion-body collapse" aria-expanded="false" style="">
 				<div class="panel-body">
@@ -114,7 +114,7 @@ include("head.html")
 
 				<div class="panel panel-default">
 				<div class="panel-heading">
-					<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toSFaccordion" href="#collapseToSFThree" aria-expanded="false">By Rail</a></h5>
+					<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toSFaccordion" href="#collapseToSFThree" aria-expanded="false"> By Rail</a></h5>
 				</div>
 				<div id="collapseToSFThree" class="accordion-body collapse" aria-expanded="false" style="">
 				<div class="panel-body">
@@ -125,7 +125,7 @@ include("head.html")
 
 				<div class="panel panel-default">
 				<div class="panel-heading">
-					<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toSFaccordion" href="#collapseToSFFour" aria-expanded="false">By Sea</a></h5>
+					<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toSFaccordion" href="#collapseToSFFour" aria-expanded="false"> By Sea</a></h5>
 				</div>
 				<div id="collapseToSFFour" class="accordion-body collapse" aria-expanded="false" style="">
 				<div class="panel-body">
@@ -143,7 +143,7 @@ include("head.html")
 			<div class="panel-group panel-group-<?php echo $gPageColor; ?>" id="toWeddingAccordion">
 				<div class="panel panel-default">
 				<div class="panel-heading">
-					<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toWeddingAccordion" href="#collapseToWeddingAccordionOne" aria-expanded="false">Rideshare (Lyft/Uber)</a></h5>
+					<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toWeddingAccordion" href="#collapseToWeddingAccordionOne" aria-expanded="false"> Rideshare (Lyft/Uber)</a></h5>
 				</div>
 				<div id="collapseToWeddingAccordionOne" class="accordion-body collapse" aria-expanded="false" style="">
 				<div class="panel-body">
@@ -155,7 +155,7 @@ include("head.html")
 
 				<div class="panel panel-default">
 				<div class="panel-heading">
-					<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toWeddingAccordion" href="#collapseToWeddingAccordionTwo" aria-expanded="false">Taxi</a></h5>
+					<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toWeddingAccordion" href="#collapseToWeddingAccordionTwo" aria-expanded="false"> Taxi</a></h5>
 				</div>
 				<div id="collapseToWeddingAccordionTwo" class="accordion-body collapse" aria-expanded="false" style="">
 				<div class="panel-body">
@@ -166,7 +166,7 @@ include("head.html")
 
 				<div class="panel panel-default">
 				<div class="panel-heading">
-					<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toWeddingAccordion" href="#collapseToWeddingAccordionThree" aria-expanded="false">Public Transit</a></h5>
+					<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toWeddingAccordion" href="#collapseToWeddingAccordionThree" aria-expanded="false"> Public Transit</a></h5>
 				</div>
 				<div id="collapseToWeddingAccordionThree" class="accordion-body collapse" aria-expanded="false" style="">
 				<div class="panel-body">
@@ -201,7 +201,7 @@ include("head.html")
 
 				<div class="panel panel-default">
 				<div class="panel-heading">
-					<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toWeddingAccordion" href="#collapseToWeddingAccordionFour" aria-expanded="false">Walking or Biking</a></h5>
+					<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toWeddingAccordion" href="#collapseToWeddingAccordionFour" aria-expanded="false"> Walking or Biking</a></h5>
 				</div>
 				<div id="collapseToWeddingAccordionFour" class="accordion-body collapse" aria-expanded="false" style="">
 				<div class="panel-body">
@@ -212,7 +212,7 @@ include("head.html")
 
 				<div class="panel panel-default">
 				<div class="panel-heading">
-					<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toWeddingAccordion" href="#collapseToWeddingAccordionFive" aria-expanded="false">Car</a></h5>
+					<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toWeddingAccordion" href="#collapseToWeddingAccordionFive" aria-expanded="false"> Car</a></h5>
 				</div>
 				<div id="collapseToWeddingAccordionFive" class="accordion-body collapse" aria-expanded="false" style="">
 				<div class="panel-body">

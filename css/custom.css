@@ -123,6 +123,16 @@ table.schedule-table > tbody > tr > td {
 	border-width: 0px;
 }
 
+.panel-title > a[aria-expanded="false"]:before {
+  font-family: 'FontAwesome';
+  content: "\f0d7";
+}
+
+.panel-title > a[aria-expanded="true"]:before {
+  font-family: 'FontAwesome';
+  content: "\f0d8";
+}
+
 #footer.short {
 	padding-top: 0px;
 	height: 63px;

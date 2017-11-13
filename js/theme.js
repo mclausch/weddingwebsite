@@ -2715,7 +2715,12 @@ window.theme.fn = {
 				$header.find('.dropdown-toggle[href="#"], .dropdown-submenu a[href="#"], .dropdown-toggle[href!="#"] .fa-caret-down, .dropdown-submenu a[href!="#"] .fa-caret-down').on('click', function(e) {
 					e.preventDefault();
 					if ($window.width() < 992) {
-						$(this).closest('li').toggleClass('opened');
+						if ($(this).closest('li').hasClass('opened')) {
+							$(this).closest('ul').find('li').removeClass('opened');
+						} else {
+							$(this).closest('ul').find('li').removeClass('opened');
+							$(this).closest('li').addClass('opened');
+						}
 					}
 				});
 

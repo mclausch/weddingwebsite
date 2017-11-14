@@ -74,7 +74,7 @@ include("head.html")
 <div class="container">
 	<div class="row">
 		<div class="col-md-12">
-			<p>Like many large cities, hotels in San Francisco can be expensive and in high demand. We've secured room blocks at two hotels to get better prices and some guaranteed capacity, however we expect both hotels to sell out. We did our best to anticipate the number of rooms to hold, but we may have underestimated. Note that if our blocks fill up, but the hotel still has capacity in standard rooms, then you will still be guaranteed our contracted rates. Our wedding falls on the Memorial Day long weekend so we recommend booking early. The hotels are located approximately halfway between downtown and the wedding venue and are ideally situated for attending the wedding and seeing the city.</p>
+			<p>Like many large cities, hotels in San Francisco can be expensive and in high demand. We've secured room blocks at two hotels to get better prices and some guaranteed capacity, however we expect both hotels to sell out. We did our best to anticipate the number of rooms to hold, but we may have underestimated. Note that if our blocks fill up, but the hotel still has capacity in standard rooms, then you will still be guaranteed our contracted rates. Our wedding falls on the Memorial Day long weekend so we recommend booking early. The hotels are located approximately halfway between downtown and the wedding venue and are ideally situated for attending the wedding and seeing the city. Please <a class="body-link" href="mailto:matthewandsarah2017@gmail.com">reach out</a> to us if you have any trouble finding accommodations or if you'd like to be connected with another wedding guest with whom to share a room.</p>
 			<hr/>
 		</div>
 

@@ -97,7 +97,6 @@ include("head.html")
 				San Francisco, California</a>
 			</p>
 			<div id="googlemaps" class="google-map google-map-borders small" style="height: 275px;"></div>
-			<br/>
 		</div>
 		<div class="col-md-4">
 			<h4 class="heading-<?php echo $gPageColor; ?>" style="text-align:center">Schedule</h4>
@@ -138,6 +137,14 @@ include("head.html")
 			</p>
 		</div>
 	</div>
+	<div class="row">
+		<div class="col-md-12" style="text-align:center">
+			<hr/>
+			<p>More questions? Please don't hesitate to <a class="body-link" href="mailto:matthewandsarah2017@gmail.com">contact us</a> and we'll do our best to help out!</p>
+		</div>
+	</div>
+
+
 </div>
 
 <?php

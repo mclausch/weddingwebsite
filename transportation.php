@@ -30,7 +30,7 @@ include("head.html")
 					</ul>
 					<p>For guests arriving from the Greater Toronto Area, SFO is probably the best option with multiple direct flights (Air Canada) each day from Toronto Pearson International Airport (YYZ).</p>
 					<p>For everyone else, SFO and OAK are equally convenient to the city center. SJC is less convenient, with fewer transportation options to the city.</p>
-					<p>We strongly recommend using <a class="body-link" href="http://flights.google.com" target="_blank">Google Flights</a> to search for flights. It does not provide a booking engine, but normally provides links to book directly with the airline. If you have any problems finding or booking flights please feel free to reach out to us and we'll help out.</p>
+					<p>We strongly recommend using <a class="body-link" href="http://flights.google.com" target="_blank">Google Flights</a> to search for flights. It does not provide a booking engine, but normally provides links to book directly with the airline. If you have any problems finding or booking flights please feel free to <a class="body-link" href="mailto:matthewandsarah2017@gmail.com">reach out</a> to us and we'll help out.</p>
 
 					<h5 class="heading-<?php echo $gPageColor; ?>">Ground Transportation Options from SFO and OAK</h5>
 					<div class="panel-group panel-group-<?php echo $gPageColor; ?>" id="toSFaccordionAir" style="padding-left:20px;">
@@ -96,7 +96,7 @@ include("head.html")
 					</div>
 
 					<h5 class="heading-<?php echo $gPageColor; ?>">Ground Transportation Options from SJC</h5>
-					<p>Getting from San Jose International Airport to San Francisco requires either a car rental, a willingness to pay a large fare for a taxi/shared ride van (&gt;$100), or an interest in exploring at least three different public transit systems. If you find a cheap flight to SJC and want help figuring out ground transportation to the city please reach out to us and we'll be happy to help.</p>
+					<p>Getting from San Jose International Airport to San Francisco requires either a car rental, a willingness to pay a large fare for a taxi/shared ride van (&gt;$100), or an interest in exploring at least three different public transit systems. If you find a cheap flight to SJC and want help figuring out ground transportation to the city please <a class="body-link" href="mailto:matthewandsarah2017@gmail.com">reach out</a> to us and we'll be happy to help.</p>
 				</div>
 				</div>
 				</div>

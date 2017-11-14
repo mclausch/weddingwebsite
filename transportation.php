@@ -10,7 +10,7 @@ include("head.html")
 <div class="container">
 	<div class="row">
 		<div class="col-md-12">
-			<p>San Francisco is a geographically small, dense city (a square, 7 miles per side) that can be experienced easily through a combination of walking, biking, public transit, taxis, and ride-sharing programs. It is well connected to the rest of California via major highways and a north south rail line, and it is well connected to the world through three nearby international airports.</p>
+			<p>San Francisco is a geographically small, dense city (a square, 7 miles per side) that can be experienced easily through a combination of walking, biking, public transit, taxis, and ride-sharing programs. It is well connected to the rest of California via major highways and a north south rail line, and it is well connected to the world through three nearby international airports. If you need any help getting to the city please <a class="body-link" href="mailto:matthewandsarah2017@gmail.com">reach out</a> to us.</p>
 
 			<hr/>
 
@@ -217,7 +217,7 @@ include("head.html")
 				</div>
 				<div id="collapseToWeddingAccordionFive" class="accordion-body collapse" aria-expanded="false" style="">
 				<div class="panel-body">
-					<p>If you prefer to drive to the Presidio Log Cabin you can find are directions from the <a class="body-link" href="accommodations.php">wedding hotels</a> below. We have reserved the parking lot at the Log Cabin for the event, but it only has 40 spaces. Please car pool if you can. Additional parking is available throughout the Presidio (both free and paid) but we cannot guarantee availability.</p>
+					<p>If you prefer to drive to the Presidio Log Cabin you can find directions from the <a class="body-link" href="accommodations.php">wedding hotels</a> below. We have reserved the parking lot at the Log Cabin for the event, but it only has 40 spaces. Please car pool if you can. Additional parking is available throughout the Presidio (both free and paid) but we cannot guarantee availability.</p>
 					<p><a class="body-link" href="https://goo.gl/maps/ZzwTPUkUTyr" target="_blank">From the Kimpton Buchanan</a></p>
 					<ol class="inline-bullets">
 					<li>Head west on Sutter St toward Webster St (away from downtown SF) </li>

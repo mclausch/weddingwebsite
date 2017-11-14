@@ -19,19 +19,19 @@ include("head.html")
 		<div class="col-md-5">
 <?php insertPhotos("img/sarahfamily", array("Family Christmas 2015! Left-to-right: Matthew, Sarah, David (Dad), Melissa, Bryan, Debbie (Mom), Ben, Destiny, Ariana, Chris, Mary (Nan), Eric, Rey",
                                             "Family Christmas 2016! Left-to-right: Melissa, Mary (Nan), Ben, Ariana, Chris, Rey, Eric, Sarah, David (Dad), Debbie (Mom), Matthew",
-											"Best picture of my Dad, taken by Matthew",
-											"My Mom, my Nan, and me",
-											"Eric, Ben, me, and Chris",
+											"Best picture of Sarah's dad, taken by Matthew",
+											"Sarah with her mom and her nan",
+											"Eric, Ben, Sarah, and Chris",
 											"Hiking with the family in Mammoth",
 											"Family Thanksgiving in our cozy apartment with 14 guests including Matt's mom",
 											"Chris photobombing at Christmas",
-											"Nan and I",
+											"Sarah with her nan",
 											"Mountain biking adventures with the family in Mammoth",
 											"Ready to go caving with Ben, Melissa, and the kids in north-eastern California",
 											"Breakfast with the family",
 											"Ariana, Chris, and their Kelpie-dog, Callie",
-											"Bryan, Eric, me, and Ben",
-											"Matthew, me, and Ben about to bike across the Golden Gate bridge, foggy as usual",
+											"Bryan, Eric, Sarah, and Ben",
+											"Matthew, Sarah, and Ben about to bike across the Golden Gate bridge, foggy as usual",
 											"Ariana and Callie having some quality time",
 											"Eric and his puppers Cookie")); ?>
 		</div>
@@ -51,19 +51,19 @@ include("head.html")
 			<p>I have also been supported and loved throughout my life by a large and inclusive extended family, many of whom will be making the trip to San Francisco to join us at the wedding. I can't wait to celebrate with everyone!</p>
 		</div>
 		<div class="col-md-5">
-<?php insertPhotos("img/matthewfamily", array("My Mom and I at Twin Peaks in San Francisco",
-                                              "Mom, Sarah, and I at Mike's wedding in Arizona",
-											  "Mom, Sarah, and I in a Redwood on the Steep Ravine trail north of San Francisco",
-											  "My Mom and Sarah, near my mom's home in London, Ontario, Canada",
-											  "My Dad and I when I was a baby and at the height of my musical talents",
-											  "My Dad and his wife Carol near their home north of Toronto",
-											  "Anthony on a visit to San Francisco",
+<?php insertPhotos("img/matthewfamily", array("Matthew and his mom at Twin Peaks in San Francisco",
+                                              "Matthew with his mom and Sarah at Mike's wedding in Arizona",
+											  "Matthew with his mom and Sarah in a Redwood on the Steep Ravine trail north of San Francisco",
+											  "Sarah with Matthew's mom near her home in London, Ontario, Canada",
+											  "Matthew with his Dad when he was a baby and at the height of his musical talents",
+											  "Matthew's Dad and his wife Carol near their home north of Toronto",
+											  "Matthew's brother Anthony on a visit to San Francisco",
 											  "Anthony making poor life choices in dress shoes in France",
 											  "Anthony running from or perhaps to something in France",
-											  "Anthony and I in our cuter days",
-											  "Anthony and I looking serious at our cousin's wedding in Ottawa",
-											  "Anthony, Mom, and I in Honfleur, France",
-											  "Anthony, Mom, and I braving the mist of Gullfoss in Iceland"));
+											  "Matthew and Anthony in their cuter days",
+											  "Matthew and Anthony looking serious at our cousin's wedding in Ottawa",
+											  "Anthony and Matthew with their mom in Honfleur, France",
+											  "Anthony and Matthew with their mom braving the mist of Gullfoss in Iceland"));
 ?>
 		</div>
 	</div>
@@ -83,10 +83,10 @@ include("head.html")
 		<div class="col-md-5">
 <?php insertPhotos("img/kate", array("Kate with one of her amazing paintings",
                                      "Kate ready for skiing with her super awesome frog hat",
-									 "Kate and I at a Frozen sing-a-long screening",
-									 "Kate and I dressed up as Princess Bride characters",
+									 "Sarah and Kate at a Frozen sing-a-long screening",
+									 "Sarah and Kate dressed up as Princess Bride characters",
 									 "Kate and her super awesome husband Riley",
-                                     "Kate, Matt, and I dressed up for Halloween (with special guest, Sir the dog)",
+                                     "Kate, Sarah, and Matthew dressed up for Halloween (with special guest, Sir the dog)",
 									 "Kate at one of her gallery showings",
 									 "Kate with a crazy statue")); ?>
 		</div>
@@ -107,19 +107,20 @@ include("head.html")
 		</div>
 		<div class="col-md-5">
 <?php insertPhotos("img/mike", array("Mike in Scotland visiting his favourite distillery in the world: Glenmorangie",
-                                     "Mike and I looking sharp for a wedding",
-									 "Mike, his wife Michal, Sarah, and I enjoying a fine dinner at their house",
-									 "Mike, Michal, Sarah, and I dancing at the Lucasfilm Holiday Party",
+                                     "Matthew and Mike looking sharp for a wedding",
+									 "Mike, his wife Michal, Sarah, and Matthew enjoying a fine dinner at their house",
+									 "Matthew, Michal, Mike, and Sarah dancing at the Lucasfilm Holiday Party",
 									 "Mike and Michal, newly engaged",
 									 "Just a typical day at work for Mike",
 									 "Mike doing the Computer Science",
-									 "Mike and I as awkward pre-teens",
-									 "Mike and I as awkward teenagers",
-									 "Mike and I as awkward adults",
-									 "Me helping Mike prepare for his wedding day",
-									 "Mike and I at Skywalker Ranch",
-									 "Mike and I with a legit DeLorean DMC-12 at work",
-									 "Mike and I in our \"Star Wars: The Force Awakens\" crew jackets")); ?>
+									 "Matthew and Mike in Cub Scout uniform",
+									 "Matthew and Mike as awkward pre-teens",
+									 "Mike and Matthew as awkward teenagers",
+									 "Matthew and Mike as awkward adults",
+									 "Matthew helping Mike prepare for his wedding day",
+									 "Matthew and Mike at Skywalker Ranch",
+									 "Matthew and Mike with a legit DeLorean DMC-12 at work",
+									 "Matthew and Mike in our \"Star Wars: The Force Awakens\" crew jackets")); ?>
 		</div>
 	</div>
 </div>

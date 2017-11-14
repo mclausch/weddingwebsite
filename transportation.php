@@ -47,6 +47,19 @@ include("head.html")
 
 						<div class="panel panel-default">
 						<div class="panel-heading">
+							<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toSFaccordionAir" href="#collapseToSFAirFour" aria-expanded="false"> Rideshare (Lyft/Uber)</a></h5>
+						</div>
+						<div id="collapseToSFAirFour" class="accordion-body collapse" aria-expanded="false" style="">
+						<div class="panel-body">
+							<p>Ridesharing was born in the San Francisco Bay Area and is used heavily all over the region. If you will have a smartphone with a data plan when you arrive at the airport this can be a cheaper (and often easier) option than a regular taxi.</p>
+							<p>Our preferred rideshare program is <a class="body-link" href="http://lyft.com" target="_blank">Lyft</a> (available on <a class="body-link" href="https://itunes.apple.com/us/app/lyft-on-demand-ridesharing/id529379082?mt=8" target="_blank">iOS</a> or <a class="body-link" href="https://play.google.com/store/apps/details?id=me.lyft.android" target="_blank">Android</a>). If you haven't used Lyft before you can sign up with our referral code, "SARAHMATTHEWWED" to get a $5 credit to your first ride (Lyft also gives us a credit after your first ride). Rides from SFO range from $18 to $40. Rides from OAK are a bit more expensive due to the bridge toll. Ridesharing is also an inexpensive option for getting around the city.</p>
+							<p>A few tips For those that haven’t used a ridesharing service before. If you want a car all to yourself or are traveling with more than 2 people, request a regular Lyft. If your party is 1-2 people, you don’t mind sharing your ride with someone you don't know, and you aren’t in a hurry, we recommend requesting a Lyft Line which pairs your party up with other riders and is often cheaper than a regular Lyft. Uber has a similar system with UberX (car just for you and your party) and Uber Pool (shared ride).</p>
+						</div>
+						</div>
+						</div>
+
+						<div class="panel panel-default">
+						<div class="panel-heading">
 							<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toSFaccordionAir" href="#collapseToSFAirTwo" aria-expanded="false"> Car Rental</a></h5>
 						</div>
 						<div id="collapseToSFAirTwo" class="accordion-body collapse" aria-expanded="false" style="">
@@ -69,24 +82,11 @@ include("head.html")
 
 						<div class="panel panel-default">
 						<div class="panel-heading">
-							<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toSFaccordionAir" href="#collapseToSFAirFour" aria-expanded="false"> Rideshare (Lyft/Uber)</a></h5>
-						</div>
-						<div id="collapseToSFAirFour" class="accordion-body collapse" aria-expanded="false" style="">
-						<div class="panel-body">
-							<p>Ridesharing was born in the San Francisco Bay Area and is used heavily all over the region. If you will have a smartphone with a data plan when you arrive at the airport this can be a cheaper (and often easier) option than a regular taxi.</p>
-							<p>Our preferred rideshare program is <a class="body-link" href="http://lyft.com" target="_blank">Lyft</a>. If you haven't used Lyft before you can sign up with our referral code, "SARAHMATTHEWWED" to get a $5 credit to your first ride. Rides from SFO range from $18 to $40. Rides from OAK are a bit more expensive due to the bridge toll. Ridesharing is also an inexpensive option for getting around the city.</p>
-							<p>A few tips For those that haven’t used a ridesharing service before. If you want a car all to yourself or are traveling with more than 2 people, request a regular Lyft. If your party is 1-2 people, you don’t mind sharing your ride with someone you don't know, and you aren’t in a hurry, we recommend requesting a Lyft Line which pairs your party up with other riders and is often cheaper than a regular Lyft. Uber has a similar system with UberX (car just for you and your party) and Uber Pool (shared ride).</p>
-						</div>
-						</div>
-						</div>
-
-						<div class="panel panel-default">
-						<div class="panel-heading">
 							<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toSFaccordionAir" href="#collapseToSFAirFive" aria-expanded="false"> Public Transit</a></h5>
 						</div>
 						<div id="collapseToSFAirFive" class="accordion-body collapse" aria-expanded="false" style="">
 						<div class="panel-body">
-							<p>Both SFO and OAK are connected to San Francisco City Center via the <a class="body-link" href="https://www.bart.gov/guide/airport" target="_blank">Bay Area Rapid Transit system (BART)</a>. Fares are approximate $10 one way.</p>
+							<p>Both SFO and OAK are connected to San Francisco City Center via the <a class="body-link" href="https://www.bart.gov/guide/airport" target="_blank">Bay Area Rapid Transit system (BART)</a>. Fares are approximate $10 one way. Note that the <a class="body-link" href="accommodations.php">wedding hotels</a> are not in the immediate city centre so if you take BART into the city you'll need to connect to a local bus to get to the hotels.</p>
 							<p> Within the city <a class="body-link" href="https://www.sfmta.com/" target="_blank">MUNI</a> runs city buses and light rail that provide surprisingly thorough coverage. Adult fares are $2.75 and allow unlimited transfers for 90 minutes.</p>
 							<p><a class="body-link" href="https://www.clippercard.com" target="_blank">Clipper Cards</a> are refillable transit payment cards that can be used on any transit system in the San Francisco Bay Area (including BART and MUNI). They can be purchased/reloaded at any major transit station or at any Walgreens pharmacy.</p>
 							<p>Google Maps and Apple Maps are both very good at providing directions and routing for public transit within San Francisco. <a class="body-link" href="http://rocketmanapp.com/" target="_blank">RocketMan</a> is an excellent app for tracking bus arrival times in many major cities (including San Francisco and Toronto). Major stations also have paper maps to help you get around and many bus stops have full system maps posted in the shelters. Any San Francisco guide book should also have information about public transit.</p>
@@ -143,18 +143,6 @@ include("head.html")
 			<div class="panel-group panel-group-<?php echo $gPageColor; ?>" id="toWeddingAccordion">
 				<div class="panel panel-default">
 				<div class="panel-heading">
-					<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toWeddingAccordion" href="#collapseToWeddingAccordionOne" aria-expanded="false"> Rideshare (Lyft/Uber)</a></h5>
-				</div>
-				<div id="collapseToWeddingAccordionOne" class="accordion-body collapse" aria-expanded="false" style="">
-				<div class="panel-body">
-					<p>Our preferred rideshare program is <a class="body-link" href="http://lyft.com" target="_blank">Lyft</a>. If you haven't used Lyft before you can sign up with our referral code, "SARAHMATTHEWWED" to get a $5 credit to your first ride. Rides from the hotels to the wedding venue can be as cheap as $4 for up to two people if you use Lyft Line.</p>
-							<p>A few tips For those that haven’t used a ridesharing service before. If you want a car all to yourself or are traveling with more than 2 people, request a regular Lyft. If your party is 1-2 people, you don’t mind sharing your ride with someone you don't know, and you aren’t in a hurry, we recommend requesting a Lyft Line which pairs your party up with other riders and is often cheaper than a regular Lyft. Uber has a similar system with UberX (car just for you and your party) and Uber Pool (shared ride).</p>
-				</div>
-				</div>
-				</div>
-
-				<div class="panel panel-default">
-				<div class="panel-heading">
 					<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toWeddingAccordion" href="#collapseToWeddingAccordionTwo" aria-expanded="false"> Taxi</a></h5>
 				</div>
 				<div id="collapseToWeddingAccordionTwo" class="accordion-body collapse" aria-expanded="false" style="">
@@ -163,6 +151,19 @@ include("head.html")
 				</div>
 				</div>
 				</div>
+
+				<div class="panel panel-default">
+				<div class="panel-heading">
+					<h5 class="panel-title"><a class="accordion-toggle" data-toggle="collapse" data-parent="#toWeddingAccordion" href="#collapseToWeddingAccordionOne" aria-expanded="false"> Rideshare (Lyft/Uber)</a></h5>
+				</div>
+				<div id="collapseToWeddingAccordionOne" class="accordion-body collapse" aria-expanded="false" style="">
+				<div class="panel-body">
+					<p>Our preferred rideshare program is <a class="body-link" href="http://lyft.com" target="_blank">Lyft</a> (available on <a class="body-link" href="https://itunes.apple.com/us/app/lyft-on-demand-ridesharing/id529379082?mt=8" target="_blank">iOS</a> or <a class="body-link" href="https://play.google.com/store/apps/details?id=me.lyft.android" target="_blank">Android</a>). If you haven't used Lyft before you can sign up with our referral code, "SARAHMATTHEWWED" to get a $5 credit to your first ride (Lyft also gives us a credit after your first ride). Rides from the hotels to the wedding venue can be as cheap as $4 for up to two people if you use Lyft Line.</p>
+							<p>A few tips For those that haven’t used a ridesharing service before. If you want a car all to yourself or are traveling with more than 2 people, request a regular Lyft. If your party is 1-2 people, you don’t mind sharing your ride with someone you don't know, and you aren’t in a hurry, we recommend requesting a Lyft Line which pairs your party up with other riders and is often cheaper than a regular Lyft. Uber has a similar system with UberX (car just for you and your party) and Uber Pool (shared ride).</p>
+				</div>
+				</div>
+				</div>
+
 
 				<div class="panel panel-default">
 				<div class="panel-heading">

@@ -88,7 +88,7 @@ include("head.html")
 			</table>
 			<p>Prices above are for single/double occupancy in standard rooms with either a single king bed or two queen beds. The charge is $20/night for each extra guest in a room. Parking is $38/night. You can book any subset of the nights, there is no requirement to book all four. Our preferred rates expire on April 27, 2018, so please book before then.</p>
 			<p>To book please call the hotel at +1-415-921-4000 and mention that you'd like to reserve rooms as part of the Utley-Lausch wedding block. You can also book online using the group code "LU1" or by clicking <a class="body-link" href="https://gc.synxis.com/rez.aspx?Hotel=62437&Chain=10179&group=LU1" target="_blank"><strong>here</strong></a>.</p>
-			<p><strong>PLEASE NOTE:</strong> if you'd like to book additional nights at the Kimpton Buchanan outside of the nights listed above (May 25-28) you'll need to make a separate booking or book by phone. The online booking system <strong>will not give you the preferred price</strong> for the listed nights if you try to book any nights outside of those four!</p>
+			<p><strong>PLEASE NOTE:</strong> if you'd like to book additional nights at the Kimpton Buchanan outside of the nights listed above (May 25-28) you'll need to book by phone. The online booking system <strong>will not give you the preferred price</strong> for the listed nights if you try to book any nights outside of those four!</p>
 		</div>
 		<div class="col-md-4">
 			<div class="owl-carousel owl-theme" data-plugin-options="{'items': 1, 'margin': 10}">
@@ -111,6 +111,7 @@ include("head.html")
 			</table>
 			<p>Prices above are for single/double occupancy in standard rooms with either a single king bed or two double beds. The charge is $20/night for each extra guest in a room. Parking is $40/night. You can book any subset of the nights, there is no requirement to book both. Our preferred rates expire on April 27, 2018, so please book before then.</p>
 			<p>To book please call the hotel at +1-415-441-4000 and mention that you'd like to reserve rooms as part of the Utley-Lausch wedding block. You can also book online by clicking <a class="body-link" href="https://www.holidayinn.com/redirect?path=hd&brandCode=HI&localeCode=en&regionCode=1&hotelCode=SFOGG&_PMID=99801505&GPC=SUT&viewfullsite=true" target="_blank"><strong>here</strong></a>.</p>
+			<p><strong>PLEASE NOTE:</strong> if you'd like to book additional nights at the Holiday Inn Golden Gateway outside of the nights listed above (May 26 &amp; 27) you'll need to book by phone. The online booking system <strong>will not give you the preferred price</strong> for the listed nights if you try to book any nights outside of those two!</p>
 		</div>
 		<div class="col-md-4">
 			<div class="owl-carousel owl-theme" data-plugin-options="{'items': 1, 'margin': 10}">

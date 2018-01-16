@@ -33,7 +33,7 @@ include("head.html")
 						<td>Caf&#233;s, Bars, Breweries, Wineries, Distilleries...San Francisco has it all.</td>
 					</tr>
 					<tr>
-						<td nowrap="nowrap"><strong><a class="body-link" href="drink.php">Activities</a></strong></td>
+						<td nowrap="nowrap"><strong><a class="body-link" href="do.php">Activities</a></strong></td>
 						<td>Hiking, biking, museums, shopping, sightseeing, tours, parks, bison, beaches, and more.</td>
 					</tr>
 				</tbody>
@@ -41,7 +41,7 @@ include("head.html")
 
 			<hr/>
 
-			<p>In addition to the pages of lists above, we've created a <a href="https://drive.google.com/open?id=1Wsad_ctX5PhXNhI0BLrNKqU8f5Q&usp=sharing" target="_blank">Google Map</a> with markers for all our favourite spots. If you "star" the map while logged into your Google account then you'll be able to view it from the Google Maps app on your phone (click the star icon beside the title below).</p>
+			<p>In addition to the pages of lists above, we've created a <a class="body-link" href="https://drive.google.com/open?id=1Wsad_ctX5PhXNhI0BLrNKqU8f5Q&usp=sharing" target="_blank">Google Map</a> with markers for all our favourite spots. If you "star" the map while logged into your Google account then you'll be able to view it from the Google Maps app on your phone (click the star icon beside the title below).</p>
 			<hr/>
 
 			<div class="embed-responsive embed-responsive-4by3">

@@ -87,7 +87,7 @@ include("head.html")
 				<tbody><tr><td>$220</td><td>$220</td><td style="color: <?php echo $gPrimaryColor; ?>"><strong>$165</strong></td><td>$165</td></tbody>
 			</table>
 			<p>Prices above are for single/double occupancy in standard rooms with either a single king bed or two queen beds. The charge is $20/night for each extra guest in a room. Parking is $38/night. You can book any subset of the nights, there is no requirement to book all four. Our preferred rates expire on April 27, 2018, so please book before then.</p>
-			<p>To book please call the hotel at +1-415-921-4000 and mention that you'd like to reserve rooms as part of the Utley-Lausch wedding block. You can also book online using the group code "LU1" or by clicking <a class="body-link" href="https://gc.synxis.com/rez.aspx?Hotel=62437&Chain=10179&group=LU1" target="_blank"><strong>here</strong></a>.</p>
+			<p>To book please call the hotel at +1-415-921-4000 and mention that you'd like to reserve rooms as part of the Utley-Lausch wedding block. You can also book online using the group code "LU1" or by clicking <a class="body-link" href="https://www.kimptonhotels.com/redirect?path=hd&brandCode=KI&localeCode=en&regionCode=1&hotelCode=SFOBC&_PMID=99801505&GPC=LU1&viewfullsite=true" target="_blank"><strong>here</strong></a>.</p>
 			<p><strong>PLEASE NOTE:</strong> if you'd like to book additional nights at the Kimpton Buchanan outside of the nights listed above (May 25-28) you'll need to book by phone. The online booking system <strong>will not give you the preferred price</strong> for the listed nights if you try to book any nights outside of those four!</p>
 		</div>
 		<div class="col-md-4">

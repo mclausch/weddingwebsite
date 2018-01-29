@@ -25,6 +25,10 @@ include("head.html")
 			<table class="table">
 				<tbody>
 					<tr>
+						<td nowrap="nowrap"><strong><a class="body-link" href="logistics.php">Logistics</a></strong></td>
+						<td>Tips and information on the practicalities of life in San Francisco</td>
+					</tr>
+					<tr>
 						<td nowrap="nowrap"><strong><a class="body-link" href="eat.php">Restaurants &amp; Food</a></strong></td>
 						<td>Our favourite thing to do in the city, eat! A listing of our favourite restaurants and food markets.</td>
 					</tr>

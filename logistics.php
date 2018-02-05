@@ -31,6 +31,7 @@ include("head.html")
 			<h4 class="heading-<?php echo $gPageColor; ?>">Car Rentals</h4>
 			<p>Within the city limits having a car can be quite expensive due to the cost of parking. Traffic is also regularly quite heavy and the narrow, hilly streets can be intimidating to unfamiliar drivers. We recommend seeing the city in other ways.</p>
 			<p>If you'd like to venture outside of the city to various state/national parks, wineries, or other sights then a car quickly becomes a necessity. Most major car rental companies have locations within the city limits so we recommend renting a car only for the days you need it, rather than getting a car at the airport and maintaining the rental for the duration of your trip.</p>
+			<p>Another option for renting a car is <a class="body-link" href="http://www.zipcar.com" target="_blank">Zipcar</a>, a by-the-hour or by-the-day, on-demand car rental service. Zipcar is available in Toronto and other major cities, and if you're already a member then you are free to use it in San Francisco too. If you're not a member and are interested in using it here, ensure that you sign up in your local market before arriving in San Francisco.</p>
 			<hr/>
 
 			<h3 class="heading-<?php echo $gPageColor; ?>"><strong>Cell Phones</strong></h3>
@@ -40,8 +41,8 @@ include("head.html")
 
 			<h3 class="heading-<?php echo $gPageColor; ?>"><strong>Money</strong></h3>
 			<p>This probably goes without saying but the currency in San Francisco is US Dollars. No vendor accepts any other form of currency. Get some US cash before you leave home, or grab some at the airport when you arrive.</p>
-			<p>Major credit cards (Visa, AmEx, Mastercard) from any country are accepted almost everywhere, even at many vendors in farmer's markets. Note that "chip-and-pin" is still new in America and doesn't work the same as the rest of the world. In most places it's "chip-and-sign." Be careful of extra charges on your card for foreign transactions.</p>
-			<p>You debit card should work in any major bank machine for withdrawing US cash. Although many vendors now take debit cards in America, foreign debit cards often do not at points-of-sale. Plan to pay with cash or credit card.</p>
+			<p>Major credit cards (Visa, AmEx, Mastercard) from any country are accepted almost everywhere, even at many vendors in farmer's markets. Note that "chip-and-pin" is still new in America and doesn't work the same as the rest of the world. In most places it's "chip-and-sign." Be careful of extra charges on your card for foreign transactions fees and be sure to notify your credit card company before you travel that you'll be using your card out-of-country.</p>
+			<p>Your debit card should work in any major bank machine for withdrawing US cash. Although many vendors now take debit cards in America, foreign debit cards often do not work at points-of-sale. Plan to pay with cash or credit card.</p>
 			<hr/>
 
 			<h3 class="heading-<?php echo $gPageColor; ?>"><strong>Climate</strong></h3>
@@ -59,6 +60,8 @@ include("head.html")
 			<p>San Francisco has a very large homeless population that is mostly harmless, but can be discomforting to people who are unprepared. Many suffer from addiction and mental health issues. It is best to avoid interaction, but if you'd like to help out then offers to buy them food or help them to get somewhere are best. Donations to local shelters and food banks can also be a very effective way to make a difference.</p>
 			<p>Most of San Francisco is "safe" however there are a few neighbourhoods that can be a bit rough. The most well known in this regard is "The Tenderloin" located just west of Union Square, all around the Civic Center. There are many great restaurants and bars in the region, but there is also a large concentration of homelessness and drug use. Be aware of your surroundings when walking in the area after dark.</p>
 			<p>Marijuana is now legal for recreational use in California and dispensaries are starting to pop up around the city. Keep in mind that the drug is not considered legal by the federal government and that continues to be a contentious issue. The Presidio is federal land and thus possession of marijuana within the boundaries is considered a federal crime. Federal drug offences can prevent you from re-entering the US for decades. Use at your own risk.</p>
+
+			<hr/>
 		</div>
 	</div>
 </div>

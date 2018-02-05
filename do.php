@@ -107,6 +107,8 @@ include("head.html")
 			<p>San Francisco is part of America, America loves to shop, so San Francisco has lots of great shopping. The main shopping area is around <a class="body-link" href="http://www.visitunionsquaresf.com" target="_blank">Union Square</a> where you'll find all the high-end retailers as well as the <a class="body-link" href="https://www.westfield.com/sanfrancisco" target="_blank">Westfield Mall</a>. The <a class="body-link" href="https://www.ferrybuildingmarketplace.com/" target="_blank">Ferry Building</a> is nearby and an excellent place to find unique food items, crafts, and more.</p>
 			<p>Outside the downtown area, check out Fillmore Street north of Geary; Divisadero Street between McAllister and Haight; Hayes Street between Laguna and Franklin; the region around Irving Street and 9th Avenue; and Clement Street between Arguello and 11th Avenue.</p>
 			<p>One of the great things about San Francisco for shopping is that large national chains are strongly discouraged within the city boundaries so there are unique independent stores all over the place. We particularly enjoy the many small book stores located in every neighbourhood. Our favourite is <a class="body-link" href="http://www.greenapplebooks.com/" target="_blank">Green Apple Books</a>...where we regularly lose hours of our life.</p>
+
+			<hr/>
 		</div>
 	</div>
 </div>

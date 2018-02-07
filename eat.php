@@ -47,12 +47,12 @@ include("head.html")
 				<li><a class="body-link" href="http://dosasf.com" target="_blank">Dosa</a> &mdash; delicious South Indian food located in the Fillmore District</li>
 				<li><a class="body-link" href="https://www.tatakisushibar.com" target="_blank">Tataki</a> &mdash; reasonably priced, sustainable sushi relatively near both hotels</li>
 				<li><a class="body-link" href="http://hinodeyaramen.com" target="_blank">Hinodeya Ramen</a> &mdash; tasty ramen near the Buchanan in Japantown</li>
-				<li><a class="body-link" href="https://www.nickscrispytacos.com" target="_blank">Nick's Crispy Tacos</a> &mdash; Nick’s Crispy Tacos serves some amazing tacos, be sure to get the tacos Nick’s way, as they are like a Taco Bell Double-Decker taco, but for adults</li>
+				<li><a class="body-link" href="https://www.nickscrispytacos.com" target="_blank">Nick's Crispy Tacos</a> &mdash; Nick's Crispy Tacos serves some amazing tacos, be sure to get the tacos Nick's way, as they are like a Taco Bell Double-Decker taco, but for adults</li>
 				<li><a class="body-link" href="http://deafghanancuisine.com" target="_blank">De Afghanan Kabob House</a> &mdash; delicious Afghani food</li>
 				<li><a class="body-link" href="https://saltandstraw.com" target="_blank">Salt & Straw</a> &mdash; fancy new ice cream shop from Portland. Yummy seasonal flavors!</li>
 				<li><a class="body-link" href="https://www.smittenicecream.com" target="_blank">Smitten Ice Cream</a> &mdash; delicious ice cream made fresh to order using liquid nitrogen</li>
 				<li><a class="body-link" href="http://bpatisserie.com" target="_blank">B. Patisserie</a> &mdash; Fancy, tasty pastries and good coffee too!</li>
-				<li><a class="body-link" href="http://www.bobsdonutssf.com" target="_blank">Bob's Donuts</a> &mdash; stays open late! Super yummy and has a donut eating challenge if you’d like to risk a stomach ache and a sugar coma.</li>
+				<li><a class="body-link" href="http://www.bobsdonutssf.com" target="_blank">Bob's Donuts</a> &mdash; stays open late! Super yummy and has a donut eating challenge if you'd like to risk a stomach ache and a sugar coma.</li>
 				<li><a class="body-link" href="http://wisesonsdeli.com/location/fillmore/" target="_blank">Wise Sons Bagels</a> &mdash; delicious classic Jewish bagels and schmear, great for breakfast!</li>
 			</ul>
 
@@ -94,7 +94,7 @@ include("head.html")
 
 			<h3 class="heading-<?php echo $gPageColor; ?>"><strong>BBQ</strong></h3>
 			<ul>
-				<li><a class="body-link" href="www.memphisminnies.com" target="_blank">Memphis Minnie's BBQ Joint</a> &mdash; down to earth BBQ that will amaze your tastebuds, our favourite BBQ in the city</li>
+				<li><a class="body-link" href="http://www.memphisminnies.com" target="_blank">Memphis Minnie's BBQ Joint</a> &mdash; down to earth BBQ that will amaze your tastebuds, our favourite BBQ in the city</li>
 				<li><a class="body-link" href="http://www.4505burgersandbbq.com/" target="_blank">4505 Burgers & BBQ</a> &mdash; amazing BBQ and a nice outdoor eating area to enjoy it</li>
 				<li><a class="body-link" href="http://www.swinchesterbbq.com/" target="_blank">South Winchester Barbeque</a> &mdash; great beer selection and delicious meats if you find yourself down in San Jose</li>
 			</ul>
@@ -206,8 +206,8 @@ include("head.html")
 				<li><a class="body-link" href="https://www.dandelionchocolate.com" target="_blank">Dandelion</a> &mdash; Omg. Chocolate. Amazing Chocolate.</li>
 				<li><a class="body-link" href="https://www.arizmendibakery.com" target="_blank">Arizmendi</a> &mdash; Go here. Eat everything. This cooperatively owned and run bakery was a central part of my weekly schedule when I lived just a half block away. I highly recommend their brioche knots, whatever the daily scone is, Ricciarelli almond cookies, daily pizza (served starting at 11am), or just grab a loaf of bread and some cheese there to take out for a snack - Sarah</li>
 				<li><a class="body-link" href="http://www.tartinebakery.com" target="_blank">Tartine</a> + <a class="body-link" href="http://www.tartinemanufactory.com/" target="_blank">Tartine Manufactory</a> &mdash; World famous bakery! They make some seriously amazing bread and so much more</li>
-				<li><a class="body-link" href="http://www.bobsdonutssf.com" target="_blank">Bob’s Donuts</a> &mdash; Stays open late! Super yummy and has a donut eating challenge if you’d like to risk a stomach ache and a sugar coma</li>
-				<li><a class="body-link" href="http://www.devilsteethbakingcompany.com/" target="_blank">Devil’s Teeth Baking Company</a> &mdash; The breakfast sandwiches are SO GOOD</li>
+				<li><a class="body-link" href="http://www.bobsdonutssf.com" target="_blank">Bob's Donuts</a> &mdash; Stays open late! Super yummy and has a donut eating challenge if you'd like to risk a stomach ache and a sugar coma</li>
+				<li><a class="body-link" href="http://www.devilsteethbakingcompany.com/" target="_blank">Devil's Teeth Baking Company</a> &mdash; The breakfast sandwiches are SO GOOD</li>
 			</ul>
 
 			<hr/>

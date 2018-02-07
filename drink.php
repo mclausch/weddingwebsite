@@ -10,7 +10,7 @@ include("head.html")
 <div class="container">
 	<div class="row">
 		<div class="col-md-12">
-			<p>As if our love of food wasn’t enough, we also enjoy the excellent selection of coffee roasters, breweries, wineries, distilleries, and bottle shops in the Bay Area. It is a broad and eclectic mix of small chains and world renowned brands.</p>
+			<p>As if our love of food wasn't enough, we also enjoy the excellent selection of coffee roasters, breweries, wineries, distilleries, and bottle shops in the Bay Area. It is a broad and eclectic mix of small chains and world renowned brands.</p>
 			<p>To start you off, here are some great lists from <a class="body-link" href="http://sf.eater.com" target="_blank">Eater SF</a>:</p>
 			<ul class="inline-bullets">
 				<li><a class="body-link" href="https://sf.eater.com/maps/best-coffee-shops-san-francisco-oakland-berkeley" target="_blank">28 of San Francisco's Essential Coffee Shops</a></li>
@@ -40,14 +40,14 @@ include("head.html")
 			<hr/>
 
 			<h3 class="heading-<?php echo $gPageColor; ?>"><strong>Beer</strong></h3>
-			<p>We couldn’t resist recommending some of our favourite breweries as well, as Matthew’s epic love of beer always takes us on new adventures. We’ve compiled a list of our favourite breweries and bars. It was impossible to keep this list short, as there are just too many amazing spots to visit and enjoy.</p>
+			<p>We couldn't resist recommending some of our favourite breweries as well, as Matthew's epic love of beer always takes us on new adventures. We've compiled a list of our favourite breweries and bars. It was impossible to keep this list short, as there are just too many amazing spots to visit and enjoy.</p>
 			<ul class="inline-bullets">
 				<li><a class="body-link" href="http://www.almanacbeer.com/taproom/" target="_blank">Almanac Tap Room</a> &mdash; one of our favourite breweries and tap rooms. They have a very extensive list of sour beers</li>
-				<li><a class="body-link" href="http://www.sessionssf.com" target="_blank">Sessions</a> &mdash; this amazing restaurant has delicious American food and an EXTENSIVE beer list. It is one of our favourites, and right next to Matt’s work!</li>
-				<li><a class="body-link" href="http://www.alesunlimited.com/222hyde/" target="_blank">Beer Basement</a> &mdash; This is an amazing bar. The owner curates an extensive, wonderful draft list of beers. The area is a little rough, so we don’t recommend it for the less adventurous, but it is a great place. </li>
+				<li><a class="body-link" href="http://www.sessionssf.com" target="_blank">Sessions</a> &mdash; this amazing restaurant has delicious American food and an EXTENSIVE beer list. It is one of our favourites, and right next to Matt's work!</li>
+				<li><a class="body-link" href="http://www.alesunlimited.com/222hyde/" target="_blank">Beer Basement</a> &mdash; This is an amazing bar. The owner curates an extensive, wonderful draft list of beers. The area is a little rough, so we don't recommend it for the less adventurous, but it is a great place. </li>
 				<li><a class="body-link" href="http://www.mikkellerbar.com/sf/" target="_blank">Mikkeller Bar</a> &mdash; delicious brewery and pub</li>
 				<li><a class="body-link" href="http://www.woodsbeer.com" target="_blank">Woods Beer Company</a> &mdash; Super fun brewery with lots of unique beers. This guy really pushes the limits of flavors. Woods Cervecería is the original location and you can get a crowler to go and drink it in Dolores Park! </li>
-				<li><a class="body-link" href="http://monkskettle.com" target="_blank">Monk’s Kettle</a> &mdash; great beer list and a wonderful seasonal menu</li>
+				<li><a class="body-link" href="http://monkskettle.com" target="_blank">Monk's Kettle</a> &mdash; great beer list and a wonderful seasonal menu</li>
 				<li><a class="body-link" href="http://citybeerstore.com" target="_blank">City Beer Store</a> &mdash; extensive beer store and bar!</li>
 				<li><a class="body-link" href="https://healthyspiritssf.com" target="_blank">Healthy Spirits</a> &mdash; if you are looking to pick up a bottle to enjoy back at the hotel, we highly recommend Healthy Spirits</li>
 				<li><a class="body-link" href="https://russianriverbrewing.com" target="_blank">Russian River Brewing</a> &mdash; For those willing to leave the city, this is an amazing brewery in the Bay Area. Beware though, it is very busy on weekends and you should check to make sure there are no events going on, as it can make the wait to get in hours long</li>
@@ -63,7 +63,7 @@ include("head.html")
 			<hr/>
 
 			<h3 class="heading-<?php echo $gPageColor; ?>"><strong>Wine</strong></h3>
-			<p>If beer isn’t your thing, NOT to worry! There are also a ton of great wine bars in the city and if you want to travel further San Francisco is super close to the world-famous wine regions of Napa, Sonoma, Russian River, Santa Cruz, and more. We’ve compiled a list of our favourites here. Sarah is still forever striving to find an amazing wine that gets more than a “yep, it’s a wine,” reaction from Matthew!</p>
+			<p>If beer isn't your thing, NOT to worry! There are also a ton of great wine bars in the city and if you want to travel further San Francisco is super close to the world-famous wine regions of Napa, Sonoma, Russian River, Santa Cruz, and more. We've compiled a list of our favourites here. Sarah is still forever striving to find an amazing wine that gets more than a "yep, it's a wine," reaction from Matthew!</p>
 			<ul class="inline-bullets">
 				<li><a class="body-link" href="http://www.enowinerooms.com" target="_blank">Eno wine bar</a> &mdash; great selection and they do wine pairings with food and chocolates! </li>
 				<li><a class="body-link" href="http://innerfog.com" target="_blank">Inner Fog</a> &mdash; where we had our first date!</li>
@@ -72,7 +72,7 @@ include("head.html")
 				<li><a class="body-link" href="https://www.winedownsf.com" target="_blank">Wine Down SF</a> &mdash; cute little bar right near SF MoMa, complete with a little kitchenette in case you are dying for an empanada while sharing a glass of wine</li>
 				<li><a class="body-link" href="http://www.atlastaproom.com" target="_blank">Atlas Tap Room</a> &mdash; great bar with a good beer and wine selection</li>
 				<li><a class="body-link" href="https://www.francisfordcoppolawinery.com/" target="_blank">Francis Ford Coppola Winery</a> &mdash; this place is a fun mixture of great wine and movie memorabilia </li>
-				<li><a class="body-link" href="http://www.matanzascreek.com" target="_blank">Matanza Creek</a> &mdash; set amongst gorgeous lavender fields, this is a winery we’re dying to try. No appointment necessary for tastings. Let us know if you go!</li>
+				<li><a class="body-link" href="http://www.matanzascreek.com" target="_blank">Matanza Creek</a> &mdash; set amongst gorgeous lavender fields, this is a winery we're dying to try. No appointment necessary for tastings. Let us know if you go!</li>
 				<li><a class="body-link" href="http://www.portercreekvineyards.com/" target="_blank">Porter Creek Wineries</a> &mdash; we stumbled upon this little gem, for which the tasting room is little more than a shack. The guy who poured our tasting was extremely knowledgeable, very friendly, and the wine was excellent. We definitely recommend this place</li>
 			</ul>
 			<p>There are literally hundreds of wineries in the Bay Area, here are some links to help you plan your visit if you want to explore more:</p>

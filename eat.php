@@ -86,6 +86,7 @@ include("head.html")
 				<li><a class="body-link" href="http://superduperburgers.com/" target="_blank">Super Duper Burger</a> &mdash; a San Francisco-based burger chain that is super-duper!</li>
 				<li><a class="body-link" href="https://www.ateliercrenn.com" target="_blank">Atelier Crenn</a> &mdash; splurge, two Michelin starred restaurant fronted by celebrity chef Dominque Crenn</li>
 				<li><a class="body-link" href="http://www.petitcrenn.com/" target="_blank">Petit Crenn</a> &mdash; also by Dominique Crenn, but at a much more accessible price point</li>
+				<li><a class="body-link" href="https://greensrestaurant.com/" target="_blank">Greens Restaurant</a> &mdash; fantastic vegetarian/vegan fare with an amazing view of the Bay</li>
 			</ul>
 
 			<hr/>
@@ -154,11 +155,19 @@ include("head.html")
 
 			<h3 class="heading-<?php echo $gPageColor; ?>"><strong>Mexican</strong></h3>
 			<ul>
-				<li><a class="body-link" href="" target="_blank"></a> &mdash; </li>
-				<li><a class="body-link" href="" target="_blank"></a> &mdash; </li>
-				<li><a class="body-link" href="" target="_blank"></a> &mdash; </li>
-				<li><a class="body-link" href="" target="_blank"></a> &mdash; </li>
-				<li><a class="body-link" href="" target="_blank"></a> &mdash; </li>
+				<li><a class="body-link" href="https://www.nickscrispytacos.com/" target="_blank">Nick's Crispy Tacos</a> &mdash; cheap and fast; get the "Nick's Way" tacos for maximum deliciousness</li>
+				<li><a class="body-link" href="http://www.tacoshopsf.com/" target="_blank">The Taco Shop</a> &mdash; sister restaurant to Nick's Crispy Tacos...shares the same menu and deliciousness</li>
+				<li><a class="body-link" href="http://www.tackosf.com/" target="_blank">Tacko</a> &mdash; sister restaurant to Nick's Crispy Tacos...shares the same menu and deliciousness</li>
+				<li><a class="body-link" href="https://www.yelp.com/biz/el-farolito-san-francisco-2" target="_blank">El Farolito</a> &mdash; our favourite "Mission Style" burritos</li>
+				<li><a class="body-link" href="https://www.facebook.com/LaTaqSF/" target="_blank">La Taqueria</a> &mdash; the other "best Mission Style burrito place" in the city</li>
+				<li><a class="body-link" href="http://www.arguellosf.com/" target="_blank">Arguello</a> &mdash; amazing Mexican food in the Presidio by Traci Des Jardins</li>
+				<li><a class="body-link" href="https://www.tacolicious.com/" target="_blank">Tacolicious</a> &mdash; amazing tacos, as advertised</li>
+				<li><a class="body-link" href="https://www.padrecitosf.com" target="_blank">Padrecito</a> &mdash; excellent seasonal, fresh Mexican food</li>
+				<li><a class="body-link" href="https://www.taquerialosmayassf.com/" target="_blank">Taqueria Los Mayas</a> &mdash; fun, fast, Yucatecan restaurant near our apartment</li>
+				<li><a class="body-link" href="http://www.californiossf.com/" target="_blank">Californios</a> &mdash; splurge, two Michelin Star, fancy Mexican restaurant serving nightly 16-course prix-fixe meals</li>
+				<li><a class="body-link" href="http://nopalitosf.com/" target="_blank">Nopalito</a> &mdash; one of our favourite sit-down Mexican restaurants, and caterer for the wedding!</li>
+				<li><a class="body-link" href="http://gracias-madre.com/" target="_blank">Gracias Madre</a> &mdash; tasty vegetarian/vegan Mexican food</li>
+				<li><a class="body-link" href="http://www.papalote-sf.com/" target="_blank">Papalote Mexican Grill</a> &mdash; excellent food with amazing salsas and sauces</li>
 			</ul>
 
 			<hr/>
@@ -176,7 +185,7 @@ include("head.html")
 
 			<h3 class="heading-<?php echo $gPageColor; ?>"><strong>Other</strong></h3>
 			<ul>
-				<li><a class="body-link" href="" target="_blank"></a> &mdash; </li>
+				<li><a class="body-link" href="http://www.balompiecafe.com/balompie1.html" target="_blank">Balompie Cafe</a> &mdash; truly divine El Salvadorian pupusas, super inexpensive too!</li>
 				<li><a class="body-link" href="" target="_blank"></a> &mdash; </li>
 				<li><a class="body-link" href="" target="_blank"></a> &mdash; </li>
 				<li><a class="body-link" href="" target="_blank"></a> &mdash; </li>

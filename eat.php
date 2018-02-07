@@ -10,7 +10,7 @@ include("head.html")
 <div class="container">
 	<div class="row">
 		<div class="col-md-12">
-			<p>For all of you that know us well, you know that we LOVE food. A LOT. So we have of course compiled a list of some of our favorite places to eat in San Francisco. It is an amazing city to live in for Foodies, as SF officially de-throned New York in 2018 as the US city with the most three-Michelin-starred restaurants. SF is a great place to explore varieties of food like Italian, Mexican, Modern American, Japanese, Burmese, Chinese, and so much more. It is a competitive and ever changing landscape of new places to try and amazing food to explore: from a hole in the wall taco place to an extravagant multi-course meal ranging in the hundreds of dollars per person. A big part of the secret to SF's amazing restaurants is the access to all of the bounty of California's enormous agricultural industry. The fresh, local fruits and vegetables are fantastic and it really shows in the final dishes. Explore the many farmers' markets to get the produce straight from the source yourself.</p>
+			<p>For all of you that know us well, you know that we LOVE food. A LOT. So we have of course compiled a list of some of our favourite places to eat in San Francisco. It is an amazing city to live in for Foodies, as SF officially de-throned New York in 2018 as the US city with the most three-Michelin-starred restaurants. SF is a great place to explore varieties of food like Italian, Mexican, Modern American, Japanese, Burmese, Chinese, and so much more. It is a competitive and ever changing landscape of new places to try and amazing food to explore: from a hole in the wall taco place to an extravagant multi-course meal ranging in the hundreds of dollars per person. A big part of the secret to SF's amazing restaurants is the access to all of the bounty of California's enormous agricultural industry. The fresh, local fruits and vegetables are fantastic and it really shows in the final dishes. Explore the many farmers' markets to get the produce straight from the source yourself.</p>
 			<p>Drinks, including beer, wine, spirits, coffee, tea, kombucha, and more are also very excellent in the Bay Area. In fact there's so much to cover there that we've made a separate page for <a class="body-link" href="drink.php">the liquid pleasures</a>.</p>
 			<p>Our big (and woefully incomplete) list below hits food from all over the world and runs the spectrum from ridiculously cheap to insanely expensive. Hopefully there is something for everyone. However, if you'd like to strike out on your own then we recommend two primary websites for research:</p>
 			<ul class="inline-bullets">
@@ -18,6 +18,7 @@ include("head.html")
 				<ul>
 					<li><a class="body-link" href="https://sf.eater.com/2018/1/23/16076108/best-food-san-francisco-restaurants-where-to-eat" target="_blank">An Eater's Guide to San Francisco</a> (start here for a high level overview of food in the city)</li>
 					<li><a class="body-link" href="https://sf.eater.com/maps/best-restaurants-san-francisco-38" target="_blank">The 38 Essential San Francisco Restaurants</a> (updated quarterly)</li>
+					<li><a class="body-link" href="https://sf.eater.com/maps/best-east-bay-oakland-berkeley-restaurants-38" target="_blank">The 38 Essential East Bay Restaurants</a> (updated quarterly)</li>
 					<li><a class="body-link" href="https://sf.eater.com/maps/san-francisco-iconic-foods-classic-dishes-best-drinks" target="_blank">The 31 Iconic Dishes and Drinks of San Francisco</a> (things you might only be able to get here)</li>
 					<li><a class="body-link" href="https://sf.eater.com/maps/michelin-sf-restaurants-bib-gourmands-san-francisco" target="_blank">San Francisco's 2018 Bib Gourmands</a> (exceptional good food at moderate prices)</li>
 					<li><a class="body-link" href="https://sf.eater.com/maps/san-francisco-bay-area-michelin-restaurants-stars-2018" target="_blank">San Francisco's 2018 Michelin Stars</a> (restaurants recognized by the famous <a class="body-link" href="https://en.wikipedia.org/wiki/Michelin_Guide" target="_blank">Michelin Guide</a>)</li>
@@ -29,7 +30,7 @@ include("head.html")
 				<li><a class="body-link" href="https://www.yelp.com/c/sf/restaurants" target="_blank">Yelp</a> &mdash; The catch-all review site used by everyone in San Francisco, contains extensive reviews for basically every restaurant in the city</li>
 			</ul>
 
-			<p>For those with dietary restrictions, San Francisco has you covered. Vegetarian, vegan, gluten-free, nut-free, dairy-free, paleo, kosher, allergies, etc. Pretty much everything is handled and you can expect servers to ask if you need accomodations.</p>
+			<p>For those with dietary restrictions, San Francisco has you covered. Vegetarian, vegan, gluten-free, nut-free, dairy-free, paleo, kosher, allergies, etc. Pretty much everything is handled and you can expect servers to ask if you need accommodations.</p>
 
 			<p>The best restaurants in San Francisco are often very busy. For those that take reservations, it's a good idea to book a week in advance or more. For those that don't, be prepared to get in line. San Franciscans love nothing more than standing in line for food.</p>
 
@@ -49,7 +50,7 @@ include("head.html")
 				<li><a class="body-link" href="https://www.nickscrispytacos.com" target="_blank">Nick's Crispy Tacos</a> &mdash; Nick’s Crispy Tacos serves some amazing tacos, be sure to get the tacos Nick’s way, as they are like a Taco Bell Double-Decker taco, but for adults</li>
 				<li><a class="body-link" href="http://deafghanancuisine.com" target="_blank">De Afghanan Kabob House</a> &mdash; delicious Afghani food</li>
 				<li><a class="body-link" href="https://saltandstraw.com" target="_blank">Salt & Straw</a> &mdash; fancy new ice cream shop from Portland. Yummy seasonal flavors!</li>
-				<li><a class="body-link" href="https://www.smittenicecream.com" target="_blank">Smitten Ice Cream</a> &mdash; delicous ice cream made fresh to order using liquid nitrogen</li>
+				<li><a class="body-link" href="https://www.smittenicecream.com" target="_blank">Smitten Ice Cream</a> &mdash; delicious ice cream made fresh to order using liquid nitrogen</li>
 				<li><a class="body-link" href="http://bpatisserie.com" target="_blank">B. Patisserie</a> &mdash; Fancy, tasty pastries and good coffee too!</li>
 				<li><a class="body-link" href="http://www.bobsdonutssf.com" target="_blank">Bob's Donuts</a> &mdash; stays open late! Super yummy and has a donut eating challenge if you’d like to risk a stomach ache and a sugar coma.</li>
 				<li><a class="body-link" href="http://wisesonsdeli.com/location/fillmore/" target="_blank">Wise Sons Bagels</a> &mdash; delicious classic Jewish bagels and schmear, great for breakfast!</li>
@@ -75,8 +76,8 @@ include("head.html")
 				<li><a class="body-link" href="https://www.zaziesf.com/" target="_blank">Zazie</a> &mdash; great for brunch or dinner, line up for brunch starting at 9am, or make reservations for dinner</li>
 				<li><a class="body-link" href="http://statebirdsf.com" target="_blank">State Bird Provisions</a> &mdash; seasonal American fare served dim sum style. This place is simply amazing. DEFINITELY get reservations 30 days in advance of your trip (or be willing to stand in line for over an hour before the restaurant opens to snag one of the tables reserved for walk-ins)</li>
 				<li><a class="body-link" href="http://frenchsoulfood.com/" target="_blank">Brenda's French Soul Food</a> &mdash; great for breakfast or dinner, be sure to get the beignets!</li>
-				<li><a class="body-link" href="http://brendasmeatandthree.com/" target="_blank">Brenda's Meat & Three</a> &mdash; fantastic sister restaurant to Brend's French Soul Food</li>
-				<li><a class="body-link" href="http://nopasf.com/" target="_blank">Nopa</a> &mdash; classic California cusine, reservations a must</li>
+				<li><a class="body-link" href="http://brendasmeatandthree.com/" target="_blank">Brenda's Meat & Three</a> &mdash; fantastic sister restaurant to Brenda's French Soul Food</li>
+				<li><a class="body-link" href="http://nopasf.com/" target="_blank">Nopa</a> &mdash; classic California cuisine, reservations a must</li>
 				<li><a class="body-link" href="http://zunicafe.com/" target="_blank">Zuni Cafe</a> &mdash; a San Francisco institution, get the roast chicken for two</li>
 				<li><a class="body-link" href="http://www.thetipsypigsf.com/" target="_blank">The Tipsy Pig</a> &mdash; great gastropub</li>
 				<li><a class="body-link" href="http://somaeatssf.com/" target="_blank">Soma Eats</a> &mdash; only open on weekdays, but pairs great food with tons of beer</li>
@@ -93,7 +94,7 @@ include("head.html")
 
 			<h3 class="heading-<?php echo $gPageColor; ?>"><strong>BBQ</strong></h3>
 			<ul>
-				<li><a class="body-link" href="www.memphisminnies.com" target="_blank">Memphis Minnie's BBQ Joint</a> &mdash; down to earth BBQ that will amaze your tastebuds, our favorite BBQ in the city</li>
+				<li><a class="body-link" href="www.memphisminnies.com" target="_blank">Memphis Minnie's BBQ Joint</a> &mdash; down to earth BBQ that will amaze your tastebuds, our favourite BBQ in the city</li>
 				<li><a class="body-link" href="http://www.4505burgersandbbq.com/" target="_blank">4505 Burgers & BBQ</a> &mdash; amazing BBQ and a nice outdoor eating area to enjoy it</li>
 				<li><a class="body-link" href="http://www.swinchesterbbq.com/" target="_blank">South Winchester Barbeque</a> &mdash; great beer selection and delicious meats if you find yourself down in San Jose</li>
 			</ul>
@@ -135,10 +136,11 @@ include("head.html")
 				<li><a class="body-link" href="https://pizzetta211.com/" target="_blank">Pizzetta 211</a> &mdash; great little pizza shop, does take-away too</li>
 				<li><a class="body-link" href="http://tonyspizzanapoletana.com/" target="_blank">Tony's Pizza Napoletana</a> &mdash; North Beach (little Italy) classic pizza shop</li>
 				<li><a class="body-link" href="https://www.littlestarpizza.com" target="_blank">Little Star Pizza</a> &mdash; great deep-dish pizza (if that's your thing)</li>
-				<li><a class="body-link" href="https://www.a16pizza.com/" target="_blank">A16</a> &mdash; fantastic pizza and italian food, and spectacular Italian wine</li>
+				<li><a class="body-link" href="https://www.a16pizza.com/" target="_blank">A16</a> &mdash; fantastic pizza and Italian food, and spectacular Italian wine</li>
 				<li><a class="body-link" href="http://www.delarosasf.com/" target="_blank">Delarosa</a> &mdash; solid pizza and Italian food</li>
 				<li><a class="body-link" href="https://www.flourandwater.com/" target="_blank">Flour + Water</a> &mdash; super busy Italian in the Mission</li>
 				<li><a class="body-link" href="http://pizzeriadelfina.com/" target="_blank">Pizzeria Delfina</a> &mdash; delicious wood-fired pizza</li>
+				<li><a class="body-link" href="http://cheeseboardcollective.coop/pizza/" target="_blank">Cheeseboard Pizzeria</a> &mdash; amazing pizza collective in Berkeley, serving a single flavour of veggie pizza each day, worth the line!</li>
 			</ul>
 
 			<hr/>
@@ -174,11 +176,9 @@ include("head.html")
 
 			<h3 class="heading-<?php echo $gPageColor; ?>"><strong>Thai</strong></h3>
 			<ul>
-				<li><a class="body-link" href="" target="_blank"></a> &mdash; </li>
-				<li><a class="body-link" href="" target="_blank"></a> &mdash; </li>
-				<li><a class="body-link" href="" target="_blank"></a> &mdash; </li>
-				<li><a class="body-link" href="" target="_blank"></a> &mdash; </li>
-				<li><a class="body-link" href="" target="_blank"></a> &mdash; </li>
+				<li><a class="body-link" href="http://lersros.com" target="_blank">Lers Ros</a> &mdash; solid, affordable Thai food</li>
+				<li><a class="body-link" href="http://kinkhao.com/" target="_blank">Kin Khao</a> &mdash; spectacular, authentic Thai food, with one Michelin Star</li>
+				<li><a class="body-link" href="https://www.marneethaisf.com/" target="_blank">Marnee Thai</a> &mdash; if there was such a thing as Thai comfort food, this would be it!</li>
 			</ul>
 
 			<hr/>
@@ -186,21 +186,28 @@ include("head.html")
 			<h3 class="heading-<?php echo $gPageColor; ?>"><strong>Other</strong></h3>
 			<ul>
 				<li><a class="body-link" href="http://www.balompiecafe.com/balompie1.html" target="_blank">Balompie Cafe</a> &mdash; truly divine El Salvadorian pupusas, super inexpensive too!</li>
-				<li><a class="body-link" href="" target="_blank"></a> &mdash; </li>
-				<li><a class="body-link" href="" target="_blank"></a> &mdash; </li>
-				<li><a class="body-link" href="" target="_blank"></a> &mdash; </li>
-				<li><a class="body-link" href="" target="_blank"></a> &mdash; </li>
+				<li><a class="body-link" href="http://deafghanancuisine.com" target="_blank">De Afghanan Kabob House</a> &mdash; delicious Afghani food</li>
+				<li><a class="body-link" href="http://www.burmasuperstar.com/" target="_blank">Burma Superstar</a> &mdash; delicious Burmese restaurant is a few blocks from our apartment, try the tea leaf salad! </li>
+				<li><a class="body-link" href="http://www.slanteddoor.com/" target="_blank">The Slanted Door</a> &mdash; Vietnamese fine dining in the Ferry Building with amazing views of the Bay</li>
+				<li><a class="body-link" href="http://www.assaberitreancuisine.com/" target="_blank">Assab Eritrean Cuisine</a> &mdash; superb East-African cuisine</li>
+				<li><a class="body-link" href="http://www.orenshummus.com" target="_blank">Oren's Hummus Shop</a> &mdash; multiple locations on the peninsula and in South Bay, best hummus and Israeli food ever</li>
 			</ul>
 
 			<hr/>
 
 			<h3 class="heading-<?php echo $gPageColor; ?>"><strong>Desserts and Bakeries</strong></h3>
 			<ul>
-				<li><a class="body-link" href="" target="_blank"></a> &mdash; </li>
-				<li><a class="body-link" href="" target="_blank"></a> &mdash; </li>
-				<li><a class="body-link" href="" target="_blank"></a> &mdash; </li>
-				<li><a class="body-link" href="" target="_blank"></a> &mdash; </li>
-				<li><a class="body-link" href="" target="_blank"></a> &mdash; </li>
+				<li><a class="body-link" href="http://www.themillsf.com" target="_blank">The Mill</a> &mdash; Delicious toast with homemade spreads and yummy coffee</li>
+				<li><a class="body-link" href="https://www.facebook.com/Arsicault-Bakery-1583125701910341/" target="_blank">Arsicault</a> &mdash; AMAZING croissants. The line is TOTALLY worth it, as this place was named best new bakery in the US by Bon Appetit in 2016. Go early, as they close at 2pm every day and sometimes sell out before closing.</li>
+				<li><a class="body-link" href="https://saltandstraw.com" target="_blank">Salt & Straw</a> &mdash; Fancy new ice cream shop from Portland. Yummy seasonal flavors!</li>
+				<li><a class="body-link" href="https://www.smittenicecream.com" target="_blank">Smitten Ice Cream</a> &mdash; delicious ice cream made fresh to order using liquid nitrogen</li>
+				<li><a class="body-link" href="http://theicecreambarsf.com" target="_blank">Ice Cream Bar</a> &mdash; A traditional ice cream bar soda fountain with a boozy twist if you head to the back counter. YUM!</li>
+				<li><a class="body-link" href="http://bpatisserie.com" target="_blank">B. patisserie</a> &mdash; Fancy, tasty pastries and good coffee too!</li>
+				<li><a class="body-link" href="https://www.dandelionchocolate.com" target="_blank">Dandelion</a> &mdash; Omg. Chocolate. Amazing Chocolate.</li>
+				<li><a class="body-link" href="https://www.arizmendibakery.com" target="_blank">Arizmendi</a> &mdash; Go here. Eat everything. This cooperatively owned and run bakery was a central part of my weekly schedule when I lived just a half block away. I highly recommend their brioche knots, whatever the daily scone is, Ricciarelli almond cookies, daily pizza (served starting at 11am), or just grab a loaf of bread and some cheese there to take out for a snack - Sarah</li>
+				<li><a class="body-link" href="http://www.tartinebakery.com" target="_blank">Tartine</a> + <a class="body-link" href="http://www.tartinemanufactory.com/" target="_blank">Tartine Manufactory</a> &mdash; World famous bakery! They make some seriously amazing bread and so much more</li>
+				<li><a class="body-link" href="http://www.bobsdonutssf.com" target="_blank">Bob’s Donuts</a> &mdash; Stays open late! Super yummy and has a donut eating challenge if you’d like to risk a stomach ache and a sugar coma</li>
+				<li><a class="body-link" href="http://www.devilsteethbakingcompany.com/" target="_blank">Devil’s Teeth Baking Company</a> &mdash; The breakfast sandwiches are SO GOOD</li>
 			</ul>
 
 			<hr/>

@@ -64,7 +64,7 @@ include("head.html")
 						</div>
 						<div id="collapseToSFAirTwo" class="accordion-body collapse" aria-expanded="false" style="">
 						<div class="panel-body">
-							<p>SFO/OAK are serviced by all major car rental companies. As with all cities however, driving (and parking) in San Francisco is often more hassle than it is worth. Note also that the prices for our <a class="body-link" href="accommodations.php">hotel room blocks</a> do not include parking, which is approximately $40/night.</p>
+							<p>SFO/OAK are serviced by all major car rental companies. As with all cities however, driving (and parking) in San Francisco is often more hassle than it is worth. Note also that the prices for our <a class="body-link" href="accommodations.php">hotel room blocks</a> do not include parking, which is approximately $40/night. Keep in mind that many of the bridges in the Bay Area charge tolls, and the Golden Gate Bridge only has automated tolls. Check with your car rental company about how best to handle tolls to avoid massive service charges.</p>
 						</div>
 						</div>
 						</div>
@@ -107,7 +107,7 @@ include("head.html")
 				</div>
 				<div id="collapseToSFTwo" class="accordion-body collapse" aria-expanded="false" style="">
 				<div class="panel-body">
-					<p>San Francisco is connected by road to the rest of California by US Route 101 and the I-5/I-580. The old State Route 1, which winds slowly along the Pacific coast is also an excellent option if you'd like to take a prettier path. As with all cities however, driving (and parking) in San Francisco is often more hassle than it is worth. Note also that the prices for our <a class="body-link" href="accommodations.php">hotel room blocks</a> do not include parking, which is approximately $40/night.</p>
+					<p>San Francisco is connected by road to the rest of California by US Route 101 and the I-5/I-580. The old State Route 1, which winds slowly along the Pacific coast is also an excellent option if you'd like to take a prettier path. As with all cities however, driving (and parking) in San Francisco is often more hassle than it is worth. Note also that the prices for our <a class="body-link" href="accommodations.php">hotel room blocks</a> do not include parking, which is approximately $40/night. Keep in mind that many of the bridges in the Bay Area charge tolls, and the Golden Gate Bridge only has automated tolls. If you don't have a FasTrak transceiver the service fees can be quite high.</p>
 				</div>
 				</div>
 				</div>
@@ -244,6 +244,7 @@ include("head.html")
 					<li>Slight left onto Battery Wagner Rd</li>
 					<li>Merge onto Storey Ave, the Presidio Log Cabin will be on the right</li>
 					</ol>
+					<p>Keep in mind that many of the bridges in the Bay Area charge tolls, and the Golden Gate Bridge only has automated tolls. Check with your car rental company about how best to handle tolls to avoid massive service charges.</p>
 				</div>
 				</div>
 				</div>

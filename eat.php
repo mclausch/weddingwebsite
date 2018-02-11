@@ -124,6 +124,7 @@ include("head.html")
 				<li><a class="body-link" href="http://dosasf.com" target="_blank">Dosa</a> &mdash; delicious South Indian food located in the Fillmore District</li>
 				<li><a class="body-link" href="http://www.curryupnow.com/" target="_blank">Curry Up Now</a> &mdash; tasty Indian food in the Mission</li>
 				<li><a class="body-link" href="http://www.udupipalaceca.com/" target="_blank">Udupi Palace</a> &mdash; more dosa in the Mission</li>
+				<li><a class="body-link" href="http://www.kennedyscurry.com/" target="_blank">Kennedy's Irish Pub & Indian Curry House Restaurant</a> &mdash; "best Irish pub in the city" has excellent beer list and serves delicious curries</li>
 			</ul>
 
 			<hr/>

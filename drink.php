@@ -74,6 +74,8 @@ include("head.html")
 				<li><a class="body-link" href="https://www.francisfordcoppolawinery.com/" target="_blank">Francis Ford Coppola Winery</a> &mdash; this place is a fun mixture of great wine and movie memorabilia </li>
 				<li><a class="body-link" href="http://www.matanzascreek.com" target="_blank">Matanza Creek</a> &mdash; set amongst gorgeous lavender fields, this is a winery we're dying to try. No appointment necessary for tastings. Let us know if you go!</li>
 				<li><a class="body-link" href="http://www.portercreekvineyards.com/" target="_blank">Porter Creek Wineries</a> &mdash; we stumbled upon this little gem, for which the tasting room is little more than a shack. The guy who poured our tasting was extremely knowledgeable, very friendly, and the wine was excellent. We definitely recommend this place</li>
+				<li><a class="body-link" href="http://www.seghesio.com/" target="_blank">Seghesio Family Vineyards</a> &mdash; 120-year-old winery specializing in Zinfandels and Italian varietals</li>
+				<li><a class="body-link" href="http://www.dutchercrossingwinery.com/" target="_blank">Dutcher Crossing Winery</a> &mdash; beautiful winery focusing on small-lot winemaking</li>
 			</ul>
 			<p>There are literally hundreds of wineries in the Bay Area, here are some links to help you plan your visit if you want to explore more:</p>
 			<ul class="inline-bullets">

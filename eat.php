@@ -49,6 +49,7 @@ include("head.html")
 				<li><a class="body-link" href="http://hinodeyaramen.com" target="_blank">Hinodeya Ramen</a> &mdash; tasty ramen near the Buchanan in Japantown</li>
 				<li><a class="body-link" href="https://www.nickscrispytacos.com" target="_blank">Nick's Crispy Tacos</a> &mdash; Nick's Crispy Tacos serves some amazing tacos, be sure to get the tacos Nick's way, as they are like a Taco Bell Double-Decker taco, but for adults</li>
 				<li><a class="body-link" href="http://deafghanancuisine.com" target="_blank">De Afghanan Kabob House</a> &mdash; delicious Afghani food</li>
+				<li><a class="body-link" href="http://pizzeriadelfina.com/pacific-heights/" target="_blank">Pizzeria Delfina</a> &mdash; fantastic wood-fired pizza</li>
 				<li><a class="body-link" href="https://saltandstraw.com" target="_blank">Salt & Straw</a> &mdash; fancy new ice cream shop from Portland. Yummy seasonal flavors!</li>
 				<li><a class="body-link" href="https://www.smittenicecream.com" target="_blank">Smitten Ice Cream</a> &mdash; delicious ice cream made fresh to order using liquid nitrogen</li>
 				<li><a class="body-link" href="http://bpatisserie.com" target="_blank">B. Patisserie</a> &mdash; Fancy, tasty pastries and good coffee too!</li>

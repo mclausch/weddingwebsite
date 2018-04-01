@@ -142,12 +142,12 @@ include("head.html")
 
 	<div class="row">
 		<div class="col-md-4">
-			<h4 class="heading-<?php echo $gPageColor; ?>" style="text-align:center">Pre-wedding Meet-up</h4>
+			<h4 class="heading-<?php echo $gPageColor; ?>" style="text-align:center">Pre-Wedding Hang-out (Friday)</h4>
 			<hr class="short"/>
-			<p>Everyone who is in the city Friday evening (May 25) is invited to join us for dinner at <a class="body-link" href="https://offthegrid.com/event/fort-mason-center/2018-4-6-5pm" target="_blank">Off the Grid - Fort Mason Center</a>. This is a weekly, outdoor food truck event held at San Francisco's historic Fort Mason Center (<a class="body-link" href="https://goo.gl/maps/QfVqCZKKNM82" target="_blank">map</a>). Over 30 vendors sell food of all kinds and there is a bar that serves beer and wine. We'll be there starting at 5pm and staying until at least 8pm. Kids and dogs are welcome! Evenings can get chilly in San Francisco so we recommend layers.</p>
+			<p>Everyone who is in the city Friday evening (May 25) is invited to join us for dinner at <a class="body-link" href="https://offthegrid.com/event/fort-mason-center/2018-4-6-5pm" target="_blank">Off the Grid - Fort Mason Center</a>. This is a weekly, outdoor food truck event held at San Francisco's historic Fort Mason Center (<a class="body-link" href="https://goo.gl/maps/QfVqCZKKNM82" target="_blank">map</a>). Over 30 vendors sell food of all kinds and there is a bar that serves beer and wine (cash and credit accepted at most vendors). We'll be there starting at 5pm and staying until at least 8pm. Kids and dogs are welcome! Evenings can get chilly in San Francisco so we recommend layers.</p>
 		</div>
 		<div class="col-md-4">
-			<h4 class="heading-<?php echo $gPageColor; ?>" style="text-align:center">Post-wedding Picnic</h4>
+			<h4 class="heading-<?php echo $gPageColor; ?>" style="text-align:center">Post-Wedding Picnic (Monday)</h4>
 			<hr class="short"/>
 			<p>Everyone who is still in the city on Monday after the wedding (May 28) is invited to join us for a picnic lunch in Golden Gate Park starting at 11:30am. We have reserved the <a class="body-link" href="http://sfrecpark.org/destination/golden-gate-park/ggp-14th-avenue-east-picnic-area/" target="_blank">14th Ave East Meadow Picnic Area</a> located just south of the park entrance at Fulton Street and Park Presidio Boulevard. Enter the park on foot and walk through the Rose Garden to reach the picnic area (<a class="body-link" href="https://goo.gl/maps/JcPzrpKQNPE2" target="_blank">map</a>). We'll supply food and drinks. Since Monday is a holiday note that John F. Kennedy Drive through the park will be closed to vehicular traffic.</p>
 		</div>

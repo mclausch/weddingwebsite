@@ -96,7 +96,8 @@ include("head.html")
 				1299 Storey Avenue,<br/>
 				San Francisco, California</a>
 			</p>
-			<div id="googlemaps" class="google-map google-map-borders small" style="height: 275px;"></div>
+			<div id="googlemaps" class="google-map google-map-borders small" style="height: 200px;"></div>
+			<br/>
 		</div>
 		<div class="col-md-4">
 			<h4 class="heading-<?php echo $gPageColor; ?>" style="text-align:center">Schedule</h4>
@@ -137,14 +138,34 @@ include("head.html")
 			</p>
 		</div>
 	</div>
+
+
+	<div class="row">
+		<div class="col-md-4">
+			<h4 class="heading-<?php echo $gPageColor; ?>" style="text-align:center">Pre-wedding Meet-up</h4>
+			<hr class="short"/>
+			<p>Everyone who is in the city Friday evening (May 25) is invited to join us for dinner at <a class="body-link" href="https://offthegrid.com/event/fort-mason-center/2018-4-6-5pm" target="_blank">Off the Grid - Fort Mason Center</a>. This is a weekly, outdoor food truck event held at San Francisco's historic Fort Mason Center (<a class="body-link" href="https://goo.gl/maps/QfVqCZKKNM82" target="_blank">map</a>). Over 30 vendors sell food of all kinds and there is a bar that serves beer and wine. We'll be there starting at 5pm and staying until at least 8pm. Kids and dogs are welcome! Evenings can get chilly in San Francisco so we recommend layers.</p>
+		</div>
+		<div class="col-md-4">
+			<h4 class="heading-<?php echo $gPageColor; ?>" style="text-align:center">Post-wedding Picnic</h4>
+			<hr class="short"/>
+			<p>Everyone who is still in the city on Monday after the wedding (May 28) is invited to join us for a picnic lunch in Golden Gate Park starting at 11:30am. We have reserved the <a class="body-link" href="http://sfrecpark.org/destination/golden-gate-park/ggp-14th-avenue-east-picnic-area/" target="_blank">14th Ave East Meadow Picnic Area</a> located just south of the park entrance at Fulton Street and Park Presidio Boulevard. Enter the park on foot and walk through the Rose Garden to reach the picnic area (<a class="body-link" href="https://goo.gl/maps/JcPzrpKQNPE2" target="_blank">map</a>). We'll supply food and drinks. Since Monday is a holiday note that John F. Kennedy Drive through the park will be closed to vehicular traffic.</p>
+		</div>
+		<div class="col-md-4">
+			<h4 class="heading-<?php echo $gPageColor; ?>" style="text-align:center">Photo Sharing</h4>
+			<hr class="short"/>
+			<p>Interested in sharing your photos from the weekend with us? Check out the <a class="body-link" href="http://www.wedsocial.com/" target="_blank">Wedsocial</a> app for iPhone and Android. Enter your name and email, then select "Join Wedding" and enter the code "<strong>sarahandmatthew</strong>" to get started.</p>
+			<p style="text-align: center; margin-top: -10px;"><a href="https://itunes.apple.com/app/id819680960" target="_blank"><img src="img/applestore.png" width="178" height="45"></img></a></p>
+			<p style="text-align: center; margin-top: -15px;"><a href="https://play.google.com/store/apps/details?id=com.weddingwire.wedsocial" target="_blank"><img src="img/androidstore.png" width="178" height="45"></img></a></p>
+		</div>
+	</div>
+
 	<div class="row">
 		<div class="col-md-12" style="text-align:center">
 			<hr/>
 			<p>More questions? Please don't hesitate to <a class="body-link" href="mailto:matthewandsarah2017@gmail.com">contact us</a> and we'll do our best to help out!</p>
 		</div>
 	</div>
-
-
 </div>
 
 <?php

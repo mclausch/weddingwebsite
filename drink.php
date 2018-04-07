@@ -32,6 +32,8 @@ include("head.html")
 				<li><a class="body-link" href="https://bluebottlecoffee.com" target="_blank">Blue Bottle</a> &mdash; this is just a solid coffee place with locations all over the city and now across the nation</li>
 				<li><a class="body-link" href="http://www.bobaguys.com/" target="_blank">Boba Guys</a> &mdash; need a break from coffee? Go here for some excellent boba milk tea</li>
 				<li><a class="body-link" href="https://flywheelcoffee.com" target="_blank">Flywheel Coffee Roasters</a> &mdash; very yummy coffee served in a hip cafe</li>
+				<li><a class="body-link" href="https://www.ritualroasters.com/" target="_blank">Ritual Coffee</a> &mdash; solid coffee with multiple locations and also sold at many other places</li>
+				<li><a class="body-link" href="https://sightglasscoffee.com/" target="_blank">Sightglass Coffee</a> &mdash; more delicious coffee</li>
 				<li><a class="body-link" href="http://www.beachsidesf.com" target="_blank">Beachside Coffee Bar & Kitchen</a> &mdash; great food (try the waffles!) and yummy coffee</li>
 				<li><a class="body-link" href="https://www.samovartea.com/" target="_blank">Samovar Tea Lounge</a> &mdash; lounge dedicated to tea of all kinds</li>
 				<li><a class="body-link" href="http://www.thebuenavista.com" target="_blank">The Buena Vista</a> &mdash; a San Francisco institution that claims to have re-invented the Irish Coffee in 1952, an amazing spot to visit</li>

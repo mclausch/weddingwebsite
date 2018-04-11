@@ -96,6 +96,7 @@ include("head.html")
 				<li><a class="body-link" href="http://hardwaterbar.com" target="_blank">Hard Water</a> &mdash; AMAZING bar for scotch and whiskey</li>
 				<li><a class="body-link" href="https://comstocksaloon.com" target="_blank">Comstock Saloon</a> &mdash; Live music, great location, great cocktails</li>
 				<li><a class="body-link" href="http://www.bourbonandbranch.com" target="_blank">Bourbon & Branch</a> &mdash; the place to go for bourbon</li>
+				<li><a class="body-link" href="http://dajanigroup.net/establishments/nihon-whisky-lounge/" target="_blank">Nihon Whisky Lounge</a> &mdash; go here for the enormous (500+ bottles) collection of single malts, stay for the Izakaya</a>
 				<li><a class="body-link" href="http://www.stgeorgespirits.com/" target="_blank">St George Spirits</a> &mdash; one of America's oldest craft distillers, known especially for their gin</li>
 				<li><a class="body-link" href="https://sevenstillsofsf.com/" target="_blank">Seven Stills Distillery</a> &mdash; making beer, and then making whiskey from the beer</li>
 				<li><a class="body-link" href="http://sonomacountydistilling.com/" target="_blank">Sonoma County Distilling</a> &mdash; fantastic local bourbon and whiskey</li>

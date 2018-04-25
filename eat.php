@@ -152,6 +152,7 @@ include("head.html")
 				<li><a class="body-link" href="http://hinodeyaramen.com" target="_blank">Hinodeya Ramen</a> &mdash; tasty ramen near the Buchanan in Japantown</li>
 				<li><a class="body-link" href="http://mensho.tokyo/" target="_blank">Mensho Tokyo</a> &mdash; Tokyo-based ramen chain, now in SF, expect long lines</li>
 				<li><a class="body-link" href="https://www.tatakisushibar.com" target="_blank">Tataki</a> &mdash; reasonably priced, sustainable sushi relatively near both hotels</li>
+				<li><a class="body-link" href="http://www.mizutanisushibarsf.com/" target="_blank">Mizutani Sushi Bar</a> &mdash; Excellent sushi in a family friendly neighbourhood setting</li>
 				<li><a class="body-link" href="http://sushiran.com/" target="_blank">Sushi Ran</a> &mdash; classic sushi spot in Sausalito</li>
 			</ul>
 

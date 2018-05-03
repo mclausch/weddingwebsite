@@ -154,7 +154,7 @@ include("head.html")
 		<div class="col-md-4">
 			<h4 class="heading-<?php echo $gPageColor; ?>" style="text-align:center">Photo Sharing</h4>
 			<hr class="short"/>
-			<p>Interested in sharing your photos from the weekend with us? Check out the <a class="body-link" href="http://www.wedsocial.com/" target="_blank">Wedsocial</a> app for iPhone and Android. Enter your name and email, then select "Join Wedding" and enter the code "<strong>sarahandmatthew</strong>" to get started.</p>
+			<p>Interested in sharing your photos from the weekend with us? Check out the <a class="body-link" href="https://www.weddingwire.com/wedding-apps/wedsocial" target="_blank">Wedsocial</a> app for iPhone and Android. Enter your name and email, then select "Join Wedding" and enter the code "<strong>sarahandmatthew</strong>" to get started.</p>
 			<p style="text-align: center; margin-top: -10px;"><a href="https://itunes.apple.com/app/id819680960" target="_blank"><img src="img/applestore.png" width="178" height="45"></img></a></p>
 			<p style="text-align: center; margin-top: -15px;"><a href="https://play.google.com/store/apps/details?id=com.weddingwire.wedsocial" target="_blank"><img src="img/androidstore.png" width="178" height="45"></img></a></p>
 		</div>
